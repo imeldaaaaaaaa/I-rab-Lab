@@ -1,144 +1,108 @@
-# Bedah I‘rob — Starter v2 (Windows)
+# Bedah I'rab — Laboratorium Nahwu
 
-Fondasi LMS pembelajaran nahwu dan analisis i‘rob dengan Next.js, TypeScript, Tailwind CSS, dan Supabase. Versi ini menambahkan mode pengunjung, katalog materi dan latihan publik, serta impor paket konten JSON.
+Prototipe website interaktif untuk latihan membedah kata dalam bahasa Arab. Antarmuka berbahasa Indonesia dengan istilah Nahwu Arab, desain responsif, filter sumber latihan, pemilihan kata, form analisis, petunjuk, pemeriksaan jawaban, dan pembahasan singkat.
 
-## Fitur pada versi ini
+## Fitur pada versi 0.1
 
-- Landing page dengan tombol belajar tanpa login.
-- **Mode pengunjung:** membaca materi dan mengerjakan latihan tanpa akun. Isian hanya berada di state halaman dan tidak disimpan; refresh/menutup halaman menghapus isian.
-- Katalog materi dan latihan publik.
-- Ruang latihan yang meminta analisis tiap kata: kedudukan, status i‘rab/bina’, tanda/bentuk akhir, dan alasan gramatikal.
-- Setelah jawaban dikirim, pembahasan terbuka. Skor otomatis hanya membandingkan teks kedudukan/status/tanda secara sederhana; alasan uraian tidak dinilai otomatis.
-- Jika Supabase dikonfigurasi dan siswa login, percobaan pada soal yang sudah tersimpan di database dapat masuk ke tabel `attempts`. Pengunjung anonim tidak menulis hasil ke database.
-- Admin dapat mengimpor paket materi dan soal JSON ke Supabase. Paket awal diimpor sebagai draft agar ditinjau terlebih dahulu.
-- Paket konten awal berdasarkan rangkuman sumber: `content/bedah-irob-bab-awal.json`.
-- SQL schema untuk profil, materi, bank soal, kelas, tugas, percobaan, progres, dan Row Level Security. Materi/soal berstatus `published` dapat dibaca secara anonim; perubahan konten tetap khusus admin.
+- Pilih latihan dari kategori kalimat umum, teks klasik bergaya pembelajaran, dan potongan Al-Qur'an.
+- Klik kata pada kalimat Arab untuk memilih kata yang akan dianalisis.
+- Isi jenis kata, kedudukan nahwu, status i'rab, dan tanda i'rab.
+- Periksa jawaban terhadap kunci yang telah ditentukan.
+- Tampilkan petunjuk dan penjelasan i'rab lengkap jika jawaban benar.
+- Tata letak responsif untuk desktop dan ponsel.
 
-**Status:** starter/MVP untuk pengembangan dan pengujian, belum diaudit untuk produksi. Validasi akademik tetap diperlukan sebelum kunci jawaban dipakai sebagai penilaian resmi. Fitur laporan guru, penugasan kelas lengkap, dan penilaian uraian fleksibel masih perlu disempurnakan.
+## Teknologi
 
-## 1. Kebutuhan
+- Next.js App Router
+- React + TypeScript
+- CSS responsif tanpa library komponen tambahan
+- Bank soal statis di `data/exercises.ts`
 
-- Windows 10/11
-- Node.js 20.9 atau lebih baru: https://nodejs.org/
-- VS Code: https://code.visualstudio.com/
-- Supabase: https://supabase.com/
-- GitHub dan Vercel untuk deployment nanti
+## Menjalankan di komputer
 
-## 2. Jalankan demo lokal terlebih dahulu
-
-1. Ekstrak ZIP ke folder baru, misalnya `C:\Projects\bedah-irob-v2`.
-2. Buka VS Code → **File → Open Folder** → pilih folder `bedah-irob` di dalam ZIP.
-3. Buka **Terminal → New Terminal**.
+1. Pasang Node.js versi LTS.
+2. Ekstrak folder proyek.
+3. Buka terminal di folder `bedah-irab`.
 4. Jalankan:
 
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+5. Buka `http://localhost:3000`.
+
+Untuk memeriksa build produksi:
+
 ```bash
-npm install
-npm run dev
+npm run build
 ```
 
-5. Buka http://localhost:3000.
+## Mengubah dan menambah soal
 
-Tanpa konfigurasi Supabase, halaman materi dan latihan menggunakan paket demo yang ada di folder `content`. Dalam mode ini, jawaban pengunjung tidak disimpan. Halaman impor hanya dapat memeriksa/pratinjau JSON; konten belum bisa disimpan untuk semua pengguna.
+Edit `data/exercises.ts`. Setiap latihan berisi:
 
-## 3. Hubungkan Supabase
+- `id`: ID unik.
+- `source`: `Umum`, `Teks klasik`, atau `Al-Qur'an`.
+- `sentence`: kalimat Arab berharakat.
+- `translation`: terjemahan.
+- `context`: catatan pembelajaran.
+- `words`: daftar kata dan kunci analisis.
 
-1. Buat project di https://supabase.com/.
-2. Buka pengaturan API project dan salin Project URL serta publishable/anon key.
-3. Di folder project, salin `.env.example` menjadi `.env.local`.
-4. Isi variabel berikut:
+Setiap objek kata memiliki `token`, `kind`, `position`, `state`, `sign`, `explanation`, dan `fullIrab`.
 
-```env
-NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY
+**Catatan akademik:** validasi bank jawaban dengan kitab nahwu/rujukan tepercaya sebelum menambahkan materi. Sebagian struktur bahasa Arab memiliki lebih dari satu analisis yang dapat diterima. Versi awal ini hanya menerima satu kombinasi jawaban per kata, jadi perlu diperluas untuk menerima alternatif jawaban yang sah.
+
+## Deploy ke GitHub dan Vercel
+
+### A. Unggah ke GitHub
+
+Buat repository baru di GitHub, misalnya `bedah-irab`. Jangan tambahkan README dari GitHub jika sudah memakai README ini. Di terminal dalam folder proyek:
+
+```bash
+git init
+git add .
+git commit -m "Initial Bedah I'rab prototype"
+git branch -M main
+git remote add origin https://github.com/USERNAME/bedah-irab.git
+git push -u origin main
 ```
 
-5. Buka **SQL Editor** di Supabase, salin seluruh isi `supabase/schema.sql`, lalu jalankan.
-6. Restart server dengan `Ctrl + C`, lalu `npm run dev`.
+Ganti `USERNAME` dengan username GitHub kamu dan sesuaikan URL repository.
 
-**Keamanan:** jangan pernah menaruh service-role/secret key di variabel `NEXT_PUBLIC_*`, source code, atau GitHub. File `.env.local` sudah dikecualikan oleh `.gitignore`.
+### B. Deploy ke Vercel
 
-### Menetapkan akun admin
+1. Masuk ke https://vercel.com/ lalu login dengan GitHub.
+2. Pilih **Add New → Project**.
+3. Import repository `bedah-irab`.
+4. Pastikan framework terdeteksi sebagai **Next.js**.
+5. Tidak perlu menambahkan environment variables untuk versi ini.
+6. Klik **Deploy** dan tunggu proses build selesai.
+7. Setiap push baru ke branch yang terhubung akan memicu deployment baru.
 
-1. Daftar akun melalui `/login`.
-2. Di Supabase SQL Editor, jalankan query berikut dengan mengganti email:
+### C. Jika menggunakan GitHub Desktop
 
-```sql
-update public.profiles
-set role = 'admin'
-where id = (
-  select id from auth.users
-  where email = 'email-admin-kamu@example.com'
-);
-```
+Alternatif untuk pengguna yang belum terbiasa dengan Git:
 
-Akun baru otomatis menjadi siswa. Peran guru juga dapat ditetapkan pengelola dengan mengganti `admin` menjadi `teacher` pada query di atas. Keluar lalu login kembali setelah peran berubah.
+1. Ekstrak ZIP proyek.
+2. Buka GitHub Desktop dan pilih **Add Existing Repository** atau **Create a New Repository**.
+3. Commit file proyek lalu **Publish repository**.
+4. Import repository tersebut di Vercel seperti langkah di atas.
 
-## 4. Impor materi dan soal dari paket awal
+## Batasan versi pertama
 
-1. Buka `/login` dan masuk sebagai admin.
-2. Buka `/admin/import`.
-3. Pilih `content/bedah-irob-bab-awal.json` dari folder project. Salinan yang bisa diunduh juga tersedia di `/bedah-irob-bab-awal.json`.
-4. Periksa daftar materi dan soal yang ditampilkan.
-5. Klik **Impor ke database**.
-6. Konten paket awal berstatus `draft`. Buka `/admin/materials` dan `/admin/questions`, periksa materi, rujukan halaman, analisis, dan kunci jawaban; ubah status menjadi `published` hanya setelah kamu menyetujui isinya.
+- Jawaban diperiksa dengan kunci statis, bukan AI.
+- Progres hanya berada di state aplikasi; belum tersimpan lintas kunjungan/perangkat.
+- Belum ada login, database, panel admin, atau editor bank soal.
+- Contoh teks klasik `الْعِلْمُ نَافِعٌ` merupakan contoh buatan bergaya teks pembelajaran, bukan kutipan dari kitab tertentu.
+- Contoh Al-Qur'an yang disertakan adalah `اللَّهُ الصَّمَدُ` dari QS. Al-Ikhlāṣ [112]: 2.
 
-Impor dapat dijalankan kembali: materi diperbarui berdasarkan `slug`; soal paket diperbarui berdasarkan `slug`. Jangan menghapus kolom `slug` pada tabel `questions`.
+## Ide pengembangan berikutnya
 
-## 5. Tentang paket sumber awal
-
-Paket pertama menggunakan sumber:
-
-- **Judul:** *Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah*
-- **Penulis:** Iswandi El-Nisamy
-- **Editor:** Tgk. Dr. Safriadi, MA.
-- **Penerbit/tahun:** CV. Manhaji Medan, 2020
-- **Bagian yang dirangkum:** pengertian kalam (hlm. 1–3), i‘rab dan bina’ (hlm. 7–11), pengenalan tanda i‘rab (hlm. 12–16).
-
-Materi pada paket ditulis sebagai rangkuman dengan bahasa sendiri, sedangkan kalimat latihan dikembangkan baru dari kaidah yang relevan dan mencantumkan rujukan halaman. Paket ini tidak menyertakan ulang PDF atau menyalin isi buku secara penuh. Sebelum publikasi, tinjau kembali terminologi, ketepatan i‘rab, tanda, dan alasan gramatikal.
-
-## 6. Mode pengunjung dan penyimpanan hasil
-
-- Pengunjung yang tidak login dapat membuka `/materi` dan `/latihan`.
-- Jawaban pengunjung tidak dikirim ke database dan tidak disimpan di localStorage/sessionStorage.
-- Setelah halaman dimuat ulang, jawaban pengunjung hilang.
-- Siswa yang login dapat menyimpan percobaan untuk soal yang telah diimpor dan dipublikasikan di Supabase.
-- Skor otomatis saat ini hanya membandingkan teks kedudukan, status i‘rab/bina’, dan tanda. Alasan uraian tidak dinilai otomatis, dan skor bukan pengganti pemeriksaan guru.
-
-## 7. GitHub dan Vercel (setelah uji lokal)
-
-1. Pastikan project berjalan lokal dan SQL Supabase sudah disiapkan.
-2. Buat repository GitHub. Upload **isi folder project** yang memiliki `package.json`, `app`, `lib`, `content`, dan `supabase`.
-3. Pastikan `.env.local` tidak di-commit.
-4. Di Vercel, impor repository tersebut.
-5. Tambahkan `NEXT_PUBLIC_SUPABASE_URL` dan `NEXT_PUBLIC_SUPABASE_ANON_KEY` di Environment Variables Vercel.
-6. Deploy, lalu tes mode pengunjung, login siswa, impor admin, dan penyimpanan hasil.
-
-## Checklist uji awal
-
-- [ ] Homepage memiliki tombol belajar tanpa login.
-- [ ] Pengunjung dapat membaca materi dan mengerjakan latihan.
-- [ ] Jawaban pengunjung tidak tersimpan setelah halaman dimuat ulang.
-- [ ] Materi dan soal publik hanya menampilkan status `published` setelah Supabase dikonfigurasi.
-- [ ] Admin dapat mengimpor paket JSON setelah login dan role admin disetel.
-- [ ] Materi dan soal hasil impor berstatus draft sampai ditinjau.
-- [ ] Siswa login dapat menyimpan percobaan pada soal dari database.
-- [ ] `.env.local` tidak terunggah ke GitHub.
-
-
-## Paket kurikulum lengkap (versi konten 2)
-
-Project ini sekarang menyertakan `content/bedah-irob-kurikulum-lengkap.json` dan file unduh publik `public/bedah-irob-kurikulum-lengkap.json`. Paket mencakup **46 materi/rangkuman** (termasuk penutup/panduan belajar) dan **45 latihan analisis kalimat** berdasarkan topik dan rentang halaman tercetak dari *Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah*.
-
-- Rangkuman memakai bahasa sendiri; isi kitab tidak disalin verbatim.
-- Contoh kalimat latihan disusun untuk LMS dan tidak dimaksudkan sebagai kutipan contoh buku.
-- Setiap materi/latihan disimpan sebagai `draft` pada paket impor supaya admin/pengajar meninjau konten dan kunci sebelum dipublikasikan.
-- Saat belum ada Supabase, website memakai paket JSON lokal untuk demo. Setelah Supabase diaktifkan, konten harus diimpor melalui menu admin dan dipublikasikan setelah ditinjau.
-- Beberapa bab nahwu memiliki perincian, syarat, dan khilaf yang tidak bisa diringkas seluruhnya dalam satu lesson; gunakan rujukan halaman pada tiap materi untuk verifikasi. Contoh bab kompleks ditandai untuk ditinjau sebelum penilaian resmi.
-
-### Mengimpor paket lengkap
-
-1. Login dengan akun admin setelah Supabase dikonfigurasi.
-2. Buka **Impor konten**.
-3. Pilih `public/bedah-irob-kurikulum-lengkap.json` (atau unduh dari tombol paket kurikulum lengkap).
-4. Periksa jumlah materi/latihan dan daftar referensi.
-5. Impor ke database. Paket tetap draft sehingga admin dapat meninjau dan menerbitkan materi/soal setelah validasi.
+1. Tambahkan alternatif jawaban benar dan penilaian per bidang.
+2. Simpan progres ke `localStorage`, lalu migrasikan ke database jika perlu.
+3. Tambahkan mode ujian dengan timer dan rekap hasil.
+4. Tambahkan materi morfologi (ṣarf): akar kata, wazan, bentuk fi'il, dan perubahan ṣighah.
+5. Tambahkan peta relasi antarkata.
+6. Pertimbangkan Supabase untuk akun dan penyimpanan progres.
+7. Jika kelak memakai AI, jadikan AI sebagai pemberi penjelasan tambahan; jangan jadikan jawabannya satu-satunya sumber kebenaran nahwu.
