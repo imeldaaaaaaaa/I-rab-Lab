@@ -1,0 +1,1978 @@
+{
+  "version": 2,
+  "source": {
+    "title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+    "author": "Iswandi El-Nisamy",
+    "editor": "Tgk. Dr. Safriadi, MA.",
+    "publisher": "CV. Manhaji Medan",
+    "year": 2020,
+    "note": "Paket ini memuat rangkuman pembelajaran berbahasa sendiri untuk semua bab/topik dalam daftar isi (bukan salinan verbatim buku), dengan contoh latihan yang dikembangkan. Rentang halaman mengikuti penomoran tercetak dalam kitab. Draf konten dan kunci perlu ditinjau oleh pengajar nahwu sebelum dipublikasikan atau digunakan untuk penilaian resmi. Contoh untuk beberapa topik kompleks bersifat pengantar dan ditandai pada rujukan."
+  },
+  "materials": [
+    {
+      "slug": "pengertian-kalam",
+      "title": "Pengantar Nahwu dan Pembahasan Kalam",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMemahami fungsi ilmu nahwu dan mengenali kalam menurut istilah nahwu.\n\nInti materi\nBagian awal kitab mengantarkan pembaca pada pentingnya nahwu untuk memahami susunan bahasa Arab, lalu membahas kalam. Dalam istilah nahwu, kalam merupakan lafaz yang tersusun, memberikan faedah yang utuh, dan disampaikan dengan maksud tertentu. Tidak semua satu kata atau rangkaian yang belum lengkap memenuhi pengertian kalam.\n\nPokok kaidah\nEmpat unsur yang perlu diperiksa ialah lafaz, murakkab (tersusun), mufid (bermakna lengkap), dan wad‘/qasad (dimaksudkan untuk menyampaikan makna). Kitab juga membedakan istilah kalimah, qaul, dan mufrad. Isim, fi‘il, dan huruf merupakan tiga kategori utama kalimah yang menjadi dasar analisis nahwu.\n\nContoh pembelajaran\nContoh latihan baru: جَاءَ الطَّالِبُ (siswa itu datang). Susunan tersebut memberi makna yang dapat dipahami sebagai satu pernyataan lengkap.\n\nKesalahan yang perlu dihindari\nJangan menyamakan “kalimah” dengan “kalam”: kalimah menunjuk satu kata, sedangkan kalam dalam pembahasan ini menuntut susunan dan faedah yang lengkap.\n\nRingkasan\nPeriksa bentuk ujaran, susunannya, kelengkapan makna, dan maksud penyampaiannya sebelum menyebut sebuah rangkaian sebagai kalam.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 1–6 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "irab-dan-bina",
+      "title": "I‘rab dan Bina’",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMembedakan perubahan akhir kata karena ‘amil dengan akhir kata yang tetap.\n\nInti materi\nI‘rab adalah perubahan keadaan akhir kata karena perbedaan ‘amil yang masuk kepadanya. Bina’ adalah tetapnya akhir kata pada bentuk tertentu. Karena itu, analisis perlu membedakan status kata dari tanda yang terlihat pada akhir kata.\n\nPokok kaidah\nEmpat kategori i‘rab ialah rafa‘, nasab, khafadh/jarr, dan jazam. Isim dapat mengalami rafa‘, nasab, dan jarr, tetapi tidak jazam. Fi‘il mudhari‘ dapat mengalami rafa‘, nasab, dan jazam, tetapi tidak jarr. Fi‘il madhi, fi‘il amr, dan huruf pada dasarnya termasuk bentuk mabni dengan rincian yang dijelaskan dalam kitab.\n\nContoh pembelajaran\nContoh baru: لَنْ يَكْتُبَ الطَّالِبُ. Huruf لَنْ menashabkan fi‘il mudhari‘ يَكْتُبَ, sedangkan الطَّالِبُ tetap marfu‘ sebagai fa‘il.\n\nKesalahan yang perlu dihindari\nJangan menyebut setiap akhir fathah sebagai nasab; pada fi‘il madhi, fathah dapat menjadi tanda bina’ bukan tanda i‘rab.\n\nRingkasan\nTentukan jenis kata, status mu‘rab atau mabni, ‘amil yang memengaruhi, lalu jelaskan tanda akhirnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 7–11 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "tanda-tanda-irab",
+      "title": "Tanda-Tanda I‘rab",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMengenali tanda asal dan tanda pengganti untuk rafa‘, nasab, jarr, dan jazam.\n\nInti materi\nKitab membahas tanda i‘rab berdasarkan kategori kata. Tanda asal yang umum ialah dhammah untuk rafa‘, fathah untuk nasab, kasrah untuk jarr, dan sukun untuk jazam. Pada bentuk tertentu, tanda tersebut digantikan huruf atau penghapusan huruf.\n\nPokok kaidah\nTanda pengganti yang dibahas mencakup waw, alif, ya, nun, serta hadzf (pembuangan) nun atau huruf ‘illat pada konteks tertentu. Contohnya, isim mutsanna marfu‘ dengan alif dan manshub/majrur dengan ya; jamak mudzakkar salim marfu‘ dengan waw dan manshub/majrur dengan ya; af‘al khamsah marfu‘ dengan tetapnya nun dan manshub/majzum dengan membuang nun.\n\nContoh pembelajaran\nContoh baru: إِنَّ الطَّالِبَيْنِ مُجْتَهِدَانِ. الطَّالِبَيْنِ adalah ism إنَّ yang manshub dengan ya karena bentuk mutsanna.\n\nKesalahan yang perlu dihindari\nTanda tidak boleh ditentukan hanya dari terjemahan. Periksa jenis kata dan bentuk morfologisnya terlebih dahulu.\n\nRingkasan\nTanda i‘rab dapat berupa harakat, huruf, atau penghapusan; pilih tanda sesuai kategori kata.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 12–16 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "kalimat-yang-di-irab",
+      "title": "Bentuk-Bentuk Kata yang Di-I‘rab dengan Tanda Khusus",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMengenali bentuk-bentuk kata yang tanda i‘rabnya tidak selalu berupa harakat biasa.\n\nInti materi\nBagian ini merinci kelompok kata yang di-i‘rab dengan huruf, serta kelompok yang tetap memakai harakat. Pembahasan mencakup isim mutsanna, jamak mudzakkar salim, bentuk-bentuk yang mengikuti keduanya, asma’ khamsah dengan syaratnya, dan af‘al khamsah.\n\nPokok kaidah\nIsim mutsanna umumnya dirafa‘kan dengan alif dan dinasabkan atau dijarkan dengan ya. Jamak mudzakkar salim dirafa‘kan dengan waw dan dinasabkan atau dijarkan dengan ya. Af‘al khamsah dirafa‘kan dengan tetapnya nun dan dinasabkan atau dijazamkan dengan membuang nun. Rincian syarat pada bentuk tertentu perlu diperiksa dalam halaman sumber.\n\nContoh pembelajaran\nContoh baru: حَضَرَ الْمُعَلِّمَانِ. الْمُعَلِّمَانِ adalah fa‘il marfu‘, dan tanda rafa‘-nya alif karena mutsanna.\n\nKesalahan yang perlu dihindari\nJangan menggeneralisasi tanda satu kelompok ke kelompok lain; jamak muannats salim, jamak taksir, dan bentuk khusus memiliki aturan berbeda.\n\nRingkasan\nKenali bentuk kata terlebih dahulu, lalu tentukan apakah tanda i‘rabnya berupa harakat atau huruf.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 17–20 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "harakat-muqaddarah",
+      "title": "I‘rab dengan Harakat yang Ditakdirkan",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMemahami i‘rab yang tandanya tidak tampak secara lahir pada akhir kata.\n\nInti materi\nPada sebagian kata, tanda i‘rab tidak tampak karena ada penghalang pelafalan atau karena posisi akhir kata. Tanda itu disebut muqaddarah (diperkirakan), sehingga kata tetap mu‘rab walaupun harakatnya tidak terlihat.\n\nPokok kaidah\nPembahasan kitab mencakup isim yang berakhir dengan alif maqshurah, isim manqush yang berakhir dengan ya dalam kondisi tertentu, isim yang disandarkan kepada ya mutakallim, dan bentuk fi‘il mudhari‘ berakhir huruf ‘illat. Sebab perkiraan tanda berbeda-beda, misalnya ta‘adzdzur (sulit menampakkan harakat) atau tsaqal (berat melafalkannya).\n\nContoh pembelajaran\nContoh baru: جَاءَ الْفَتَى. الْفَتَى adalah fa‘il marfu‘; tanda rafa‘-nya dhammah muqaddarah pada alif maqshurah karena sulit ditampakkan.\n\nKesalahan yang perlu dihindari\nJangan menyebut kata berakhir alif sebagai mabni hanya karena harakatnya tidak terlihat; ia dapat tetap mu‘rab dengan tanda yang diperkirakan.\n\nRingkasan\nSebutkan status i‘rab, tanda yang diperkirakan, dan alasan mengapa tanda tidak tampak.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 21–22 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-mamnu-minas-sharf",
+      "title": "Isim Mamnu‘ min ash-Sharf",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali isim yang memiliki aturan tanwin dan jarr khusus.\n\nInti materi\nMamnu‘ min ash-sharf adalah isim yang tidak menerima tanwin dan pada keadaan jarr tertentu menggunakan fathah sebagai pengganti kasrah. Kitab membahas sebab-sebab yang membuat isim masuk kategori ini, termasuk gabungan sebab atau sebab kuat tertentu.\n\nPokok kaidah\nContoh kategori yang dibahas dalam ilmu nahwu meliputi nama diri dengan pola tertentu, nama perempuan, nama asing, bentuk jamak tertentu, dan sifat dengan pola tertentu. Namun fathah sebagai tanda jarr tidak berlaku apabila isim tersebut menerima alif-lam atau menjadi mudhaf; kondisi dan pengecualian harus dilihat bersama konteks.\n\nContoh pembelajaran\nContoh baru: سَلَّمْتُ عَلَى أَحْمَدَ. أَحْمَدَ majrur oleh عَلَى dan tanda jarr-nya fathah karena mamnu‘ min ash-sharf, dalam konteks tanpa alif-lam dan tanpa idhafah.\n\nKesalahan yang perlu dihindari\nTidak semua nama diri otomatis mamnu‘ min ash-sharf. Periksa sebab nahwu yang relevan dan kondisi pemakaiannya.\n\nRingkasan\nTentukan sebab larangan sharaf dan periksa apakah ada alif-lam atau idhafah yang mengubah tanda jarr.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 23–31 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "nakirah-marifah",
+      "title": "Nakirah dan Ma‘rifah",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMembedakan isim yang belum tertentu dengan isim yang telah tertentu.\n\nInti materi\nKitab membagi isim menjadi nakirah dan ma‘rifah. Nakirah menunjuk sesuatu yang belum tertentu dan umumnya berada pada posisi yang dapat menerima alif-lam. Ma‘rifah menunjuk sesuatu yang telah tertentu melalui bentuk atau konteksnya.\n\nPokok kaidah\nKelompok ma‘rifah yang diperkenalkan mencakup dhamir, isim ‘alam, isim isyarah, isim maushul, isim yang memakai alif-lam, dan nakirah maqsudah dalam nida’ menurut syaratnya. Idhafah kepada ma‘rifah juga dapat membuat mudhaf menjadi ma‘rifah.\n\nContoh pembelajaran\nContoh baru: جَاءَ طَالِبٌ lalu جَاءَ الطَّالِبُ. طَالِبٌ bersifat nakirah, sedangkan الطَّالِبُ menjadi ma‘rifah dengan alif-lam.\n\nKesalahan yang perlu dihindari\nJangan menganggap setiap isim tanpa tanwin pasti ma‘rifah; bina’, idhafah, dan alasan lain juga memengaruhi bentuk kata.\n\nRingkasan\nTentukan apakah referennya belum tertentu atau sudah tertentu, kemudian sebutkan penanda ma‘rifahnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 32–33 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-dhamir",
+      "title": "Isim Dhamir",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali dhamir terpisah, dhamir bersambung, dan fungsi sintaksisnya.\n\nInti materi\nDhamir adalah isim yang menunjuk pembicara, lawan bicara, atau pihak yang dibicarakan. Kitab menempatkan dhamir sebagai salah satu kelompok ma‘rifah dan membahas bentuk yang tampak maupun yang tersembunyi.\n\nPokok kaidah\nDhamir dapat munfashil (terpisah) atau muttashil (bersambung). Fungsinya bergantung pada posisinya: dapat berada pada محل rafa‘ sebagai fa‘il atau mubtada, pada محل nasab sebagai maf‘ul bih atau ism bagi amil tertentu, atau pada محل jarr karena huruf jarr/idhafah. Dhamir ghaib perlu memiliki marji‘ yang dapat dipahami dari konteks.\n\nContoh pembelajaran\nContoh baru: كَتَبْتُ الدَّرْسَ. تاء pada كَتَبْتُ adalah dhamir muttashil dalam محل rafa‘ sebagai fa‘il.\n\nKesalahan yang perlu dihindari\nJangan menyebut dhamir muttashil selalu menjadi objek; ia juga dapat menjadi fa‘il atau memiliki fungsi lain.\n\nRingkasan\nTentukan siapa yang dirujuk dhamir dan apa kedudukannya di dalam susunan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 34–38 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-alam",
+      "title": "Isim ‘Alam",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMengenali nama khusus sebagai salah satu bentuk isim ma‘rifah.\n\nInti materi\nIsim ‘alam adalah nama yang dipakai untuk menunjuk individu atau entitas tertentu secara khusus, seperti nama orang, tempat, atau kelompok. Karena menunjuk referen tertentu, isim ‘alam termasuk ma‘rifah.\n\nPokok kaidah\nDalam analisis, isim ‘alam tetap memiliki kedudukan sintaksis sesuai posisinya: dapat menjadi fa‘il, mubtada, khabar, maf‘ul bih, mudhaf ilayh, dan sebagainya. Sebagian nama juga dapat masuk aturan mamnu‘ min ash-sharf; karena itu sifat ma‘rifah dan status sharaf adalah dua hal yang berbeda.\n\nContoh pembelajaran\nContoh baru: جَاءَ مُحَمَّدٌ. مُحَمَّدٌ adalah isim ‘alam sekaligus fa‘il marfu‘ dengan dhammah.\n\nKesalahan yang perlu dihindari\nJangan menyamakan kategori ma‘rifah dengan kedudukan i‘rab. “Isim ‘alam” menjelaskan jenis referensi, sedangkan “fa‘il” menjelaskan fungsi dalam kalimat.\n\nRingkasan\nSebutkan fungsi kata dalam kalimat dan, jika relevan, identitasnya sebagai isim ‘alam.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 39–42 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-isyarah",
+      "title": "Isim Isyarah",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMemilih isim isyarah berdasarkan jumlah, gender, dan jarak.\n\nInti materi\nIsim isyarah adalah kata yang digunakan untuk menunjuk sesuatu. Bentuknya berbeda menurut jenis dan jumlah yang ditunjuk, dan ada bentuk yang menunjukkan dekat atau jauh.\n\nPokok kaidah\nBentuk dasar yang umum antara lain هَذَا untuk mufrad mudzakkar dekat, هَذِهِ untuk mufrad muannats dekat, هَذَانِ/هَاتَانِ untuk mutsanna, هَؤُلَاءِ untuk jamak dekat, serta ذَلِكَ/تِلْكَ dan أُولَئِكَ untuk bentuk jauh. Rincian bentuk dan perubahan i‘rab perlu mengikuti bentuk yang dipakai dalam kalimat.\n\nContoh pembelajaran\nContoh baru: هَذَا كِتَابٌ. هَذَا menjadi mubtada dalam محل rafa‘ dan كِتَابٌ menjadi khabar marfu‘.\n\nKesalahan yang perlu dihindari\nJangan memilih bentuk hanya berdasarkan terjemahan “ini/itu”; perhatikan gender dan jumlah kata yang ditunjuk.\n\nRingkasan\nCocokkan bentuk isyarah dengan referennya, kemudian tentukan kedudukan kata tersebut dalam kalimat.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 43 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-maushul",
+      "title": "Isim Maushul dan Shilah-nya",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali isim maushul dan kalimat yang melengkapkan maknanya.\n\nInti materi\nIsim maushul menghubungkan isim yang dirujuk dengan shilah al-maushul, yaitu rangkaian setelahnya yang menjelaskan referen tersebut. Dalam banyak bentuk, shilah memuat dhamir penghubung yang disebut ‘a’id.\n\nPokok kaidah\nBentuk khusus antara lain الَّذِي, الَّتِي, اللَّذَانِ/اللَّتَانِ, الَّذِينَ, dan bentuk lain menurut gender serta jumlah. Ada pula bentuk umum seperti مَنْ dan مَا. Shilah al-maushul tidak berdiri sebagai unsur i‘rab tersendiri dari isim maushul, tetapi melengkapi identifikasi referennya.\n\nContoh pembelajaran\nContoh baru: جَاءَ الطَّالِبُ الَّذِي نَجَحَ. الَّذِي menjelaskan الطَّالِبُ, sedangkan نَجَحَ merupakan bagian shilah yang menerangkan siswa tersebut.\n\nKesalahan yang perlu dihindari\nJangan menganggap kata kerja dalam shilah otomatis menjadi khabar isim maushul; hubungan sintaksisnya mengikuti susunan shilah.\n\nRingkasan\nTemukan isim maushul, tentukan referen yang dijelaskan, lalu cari shilah dan ‘a’id jika ada.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 44–48 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "marifah-alif-lam",
+      "title": "Ma‘rifah dengan Alif-Lam",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMemahami fungsi alif-lam dalam membuat isim menjadi tertentu.\n\nInti materi\nMasuknya alif-lam pada isim yang sesuai dapat menjadikannya ma‘rifah. Bentuk ini membantu membedakan rujukan umum dari rujukan yang tertentu atau dipahami sebagai jenis tertentu menurut konteks.\n\nPokok kaidah\nAlif-lam tidak mengubah kedudukan i‘rab kata dengan sendirinya. Isim yang memakai alif-lam tetap dapat menjadi fa‘il, maf‘ul bih, mubtada, mudhaf ilayh, atau fungsi lain. Tanda i‘rab ditentukan oleh kedudukan dan kategori katanya, bukan oleh alif-lam semata.\n\nContoh pembelajaran\nContoh baru: قَرَأَ الطَّالِبُ كِتَابًا. الطَّالِبُ merupakan ma‘rifah karena alif-lam dan berfungsi sebagai fa‘il.\n\nKesalahan yang perlu dihindari\nJangan menganggap alif-lam sebagai tanda rafa‘ atau nasab; ia adalah penanda bentuk isim, bukan tanda i‘rab.\n\nRingkasan\nPisahkan dua pertanyaan: apakah isim itu ma‘rifah, dan apa kedudukannya dalam kalimat.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 49–50 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "idhafah-ke-marifah",
+      "title": "Idhafah kepada Isim Ma‘rifah",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMengenali mudhaf dan mudhaf ilayh serta efeknya pada kemakrifatan.\n\nInti materi\nSusunan idhafah terdiri dari mudhaf dan mudhaf ilayh. Mudhaf disandarkan kepada isim sesudahnya, sedangkan mudhaf ilayh berada dalam keadaan jarr. Idhafah dapat memberi makna kepemilikan, hubungan, bagian, atau penentuan lain sesuai konteks.\n\nPokok kaidah\nMudhaf biasanya tidak menerima tanwin dan tidak memakai alif-lam pada bentuk idhafah biasa. Jika mudhaf ilayh ma‘rifah, mudhaf dapat memperoleh makna ma‘rifah; jika mudhaf ilayh nakirah, susunan dapat memberi makna pengkhususan. Ada rincian idhafah lafzhiyyah dan ma‘nawiyyah dalam pembahasan kitab.\n\nContoh pembelajaran\nContoh baru: هَذَا كِتَابُ الطَّالِبِ. كِتَابُ adalah khabar sekaligus mudhaf; الطَّالِبِ adalah mudhaf ilayh majrur.\n\nKesalahan yang perlu dihindari\nJangan meng-i‘rab mudhaf ilayh sebagai maf‘ul bih hanya karena datang setelah isim; hubungan idhafah memiliki tanda jarr.\n\nRingkasan\nTentukan mudhaf, mudhaf ilayh, tanda jarr pada mudhaf ilayh, dan efek idhafah pada makna.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 51 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-marfu",
+      "title": "Peta Isim-Isim Marfu‘",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemetakan beberapa kedudukan isim yang umumnya marfu‘.\n\nInti materi\nKitab memperkenalkan kelompok isim marfu‘ sebelum membahas bab-babnya secara rinci. Marfu‘ adalah keadaan i‘rab yang dapat ditandai dhammah atau tanda penggantinya sesuai bentuk kata.\n\nPokok kaidah\nKelompok penting meliputi fa‘il, na’ib fa‘il, mubtada, khabar, ism kana dan saudaranya, khabar inna dan saudaranya, serta unsur yang mengikuti kata marfu‘ seperti na‘at, ‘athaf, taukid, dan badal. Daftar dan syaratnya harus dibaca bersama bab masing-masing.\n\nContoh pembelajaran\nContoh baru: حَضَرَ الْمُعَلِّمُ وَالطَّالِبُ. الْمُعَلِّمُ adalah fa‘il marfu‘; الطَّالِبُ di‘athafkan kepadanya sehingga mengikuti rafa‘.\n\nKesalahan yang perlu dihindari\nJangan mengira semua isim setelah fi‘il marfu‘; maf‘ul bih justru manshub jika ada.\n\nRingkasan\nCari fungsi sintaksisnya dahulu, baru tentukan alasan rafa‘ dan tanda yang digunakan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 52 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "fail",
+      "title": "Fa‘il",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMenentukan pelaku atau unsur yang dinisbatkan kepadanya suatu perbuatan.\n\nInti materi\nFa‘il adalah isim marfu‘ yang disebut setelah fi‘il atau unsur yang bermakna fi‘il dan menunjukkan pihak yang melakukan perbuatan atau menjadi sandaran kejadian. Fa‘il dapat berupa isim zhahir atau dhamir yang dipahami dari bentuk kata.\n\nPokok kaidah\nFa‘il pada susunan fi‘liyyah umumnya marfu‘. Tanda rafa‘ bergantung pada bentuknya: dhammah pada mufrad dan beberapa jamak, alif pada mutsanna, atau waw pada jamak mudzakkar salim dan asma’ khamsah dengan syaratnya. Fa‘il tidak selalu bermakna pelaku aktif secara semantis pada semua konstruksi, sehingga konteks dan bentuk kalimat tetap penting.\n\nContoh pembelajaran\nContoh baru: كَتَبَ الْوَلَدُ الرِّسَالَةَ. الْوَلَدُ adalah fa‘il; الرِّسَالَةَ adalah maf‘ul bih.\n\nKesalahan yang perlu dihindari\nJangan menentukan fa‘il hanya dari posisi setelah fi‘il; periksa hubungan makna dan kemungkinan adanya bentuk pasif.\n\nRingkasan\nTentukan kata yang menjadi fa‘il, status rafa‘-nya, dan tanda sesuai bentuk katanya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 53–57 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "naib-fail",
+      "title": "Na’ib Fa‘il",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali unsur marfu‘ yang menggantikan fa‘il pada susunan pasif.\n\nInti materi\nKetika fa‘il tidak disebutkan pada konstruksi pasif, unsur tertentu dapat menempati posisi na’ib fa‘il. Kitab menjelaskan perubahan susunan dan unsur yang dapat menggantikan fa‘il, dengan pembahasan mengenai maf‘ul bih dan kondisi khusus lainnya.\n\nPokok kaidah\nFi‘il madhi pasif memiliki pola bentuk yang berbeda dari aktif, misalnya كُتِبَ. Na’ib fa‘il marfu‘ dan mengambil tanda rafa‘ sesuai bentuknya. Pemilihan unsur pengganti mengikuti aturan dan konteks, bukan dilakukan secara bebas.\n\nContoh pembelajaran\nContoh baru: كُتِبَ الدَّرْسُ. الدَّرْسُ adalah na’ib fa‘il marfu‘ dengan dhammah.\n\nKesalahan yang perlu dihindari\nJangan menyebut الدَّرْسُ sebagai fa‘il pada kalimat pasif; secara analisis ia menempati posisi na’ib fa‘il.\n\nRingkasan\nKenali bentuk pasif, temukan unsur yang menjadi na’ib fa‘il, lalu tentukan tanda rafa‘-nya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 58–62 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "mubtada-khabar",
+      "title": "Mubtada dan Khabar",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMenganalisis dua unsur pokok dalam jumlah ismiyyah.\n\nInti materi\nJumlah ismiyyah umumnya dibangun dari mubtada yang dibicarakan dan khabar yang memberikan informasi tentangnya. Keduanya pada asalnya marfu‘, tetapi susunan dapat berubah ketika dimasuki ‘amil tertentu.\n\nPokok kaidah\nMubtada dapat berupa isim zhahir atau bentuk lain yang memenuhi syarat. Khabar dapat berupa kata tunggal, jumlah (kalimat), atau syibh jumlah berupa jar-majrur/zharaf. Jika khabar berbentuk jumlah, hubungan dengan mubtada perlu dipahami dari dhamir penghubung atau konteks.\n\nContoh pembelajaran\nContoh baru: الطَّالِبُ مُجْتَهِدٌ. الطَّالِبُ adalah mubtada marfu‘ dan مُجْتَهِدٌ adalah khabar marfu‘.\n\nKesalahan yang perlu dihindari\nJangan menyamakan khabar dengan fi‘il; khabar dapat berupa isim, jumlah, atau syibh jumlah.\n\nRingkasan\nTemukan unsur yang dibicarakan dan informasi yang melengkapinya, lalu tentukan bentuk khabar.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 63–72 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "kana-wa-akhawatuha",
+      "title": "Kana dan Saudaranya",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemahami perubahan i‘rab mubtada-khabar setelah masuk kana dan saudaranya.\n\nInti materi\nKana dan kelompok saudaranya termasuk nawasikh yang masuk pada jumlah ismiyyah. Secara umum, amil ini merafa‘kan ism-nya dan menashabkan khabar-nya. Makna masing-masing fi‘il dan syarat penggunaannya dijelaskan dalam kitab.\n\nPokok kaidah\nContoh fi‘il yang dikenal dalam kelompok ini mencakup كَانَ dan bentuk-bentuk seperti أَصْبَحَ, أَضْحَى, ظَلَّ, بَاتَ, صَارَ, dan لَيْسَ. Sebagian saudara memiliki syarat atau fungsi waktu/makna khusus. Khabar dapat berupa mufrad, jumlah, atau syibh jumlah sesuai konstruksi.\n\nContoh pembelajaran\nContoh baru: كَانَ الطَّالِبُ مُجْتَهِدًا. الطَّالِبُ adalah ism kana marfu‘, sedangkan مُجْتَهِدًا adalah khabar kana manshub.\n\nKesalahan yang perlu dihindari\nJangan menashabkan ism kana; aturan dasarnya justru ism marfu‘ dan khabar manshub.\n\nRingkasan\nSetelah menemukan kana atau saudaranya, tentukan ism dan khabar beserta tanda masing-masing.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 73–79 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "huruf-musyabbahah-bilaisa",
+      "title": "Huruf yang Diserupakan dengan Laisa",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali huruf nafi yang dalam kondisi tertentu beramal seperti ليس.\n\nInti materi\nBagian ini membahas huruf-huruf yang diserupakan dengan ليس dari sisi penafian, sifat jamid, dan masuknya pada jumlah ismiyyah. Huruf yang beramal seperti ليس merafa‘kan isim dan menashabkan khabar, tetapi amalnya bergantung pada syarat tertentu.\n\nPokok kaidah\nKitab menjelaskan secara khusus مَا النافية menurut pemakaian Hijaz/Tihamah dan menyebut syarat yang dapat membatalkan amalnya, seperti posisi khabar atau kehadiran unsur tertentu. Karena amal ini bersyarat dan terdapat perbedaan analisis di kalangan ahli nahwu, contoh perlu dibaca bersama konteksnya.\n\nContoh pembelajaran\nContoh baru: مَا الطَّالِبُ مُهْمِلًا. Dalam pemakaian yang mengamalkan مَا seperti ليس, الطَّالِبُ adalah isim مَا marfu‘ dan مُهْمِلًا adalah khabarnya manshub.\n\nKesalahan yang perlu dihindari\nJangan menerapkan amal مَا secara otomatis pada setiap kalimat; cek syarat dan konteks yang dijelaskan kitab.\n\nRingkasan\nIdentifikasi huruf nafi, periksa apakah syarat amal terpenuhi, lalu analisis isim dan khabarnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 80–82 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "afal-muqarabah",
+      "title": "Af‘al Muqarabah",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemahami fi‘il yang menunjukkan kejadian hampir terjadi atau mulai berlangsung.\n\nInti materi\nAf‘al muqarabah menunjukkan kedekatan terjadinya suatu perbuatan. Kelompok ini berhubungan dengan susunan ismiyyah yang dimasuki fi‘il naqish, lalu diikuti isim dan khabar dengan bentuk yang lazimnya berupa jumlah fi‘liyyah.\n\nPokok kaidah\nContoh yang umum dibahas ialah كَادَ, كَرَبَ, dan أَوْشَكَ, bersama kelompok yang berkaitan dengan harapan atau permulaan menurut rincian bab. Isimnya marfu‘, sedangkan khabarnya memiliki ketentuan bentuk fi‘il mudhari‘ dan penggunaan أَنْ yang perlu diperiksa pada masing-masing fi‘il.\n\nContoh pembelajaran\nContoh baru: كَادَ الطَّالِبُ يَنْجَحُ. الطَّالِبُ adalah ism كادَ dan يَنْجَحُ merupakan fi‘il dalam jumlah yang menempati posisi khabar.\n\nKesalahan yang perlu dihindari\nJangan menganggap kata kerja setelah كادَ selalu memiliki bentuk yang sama dengan khabar setelah semua fi‘il naqish; ada rincian penggunaan.\n\nRingkasan\nTentukan fi‘il muqarabah, ism-nya, dan jumlah khabar beserta bentuk fi‘il yang digunakan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 83–84 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "inna-wa-akhawatuha",
+      "title": "Inna dan Saudaranya",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMenganalisis huruf yang menashabkan isim dan merafa‘kan khabar.\n\nInti materi\nإِنَّ dan saudaranya masuk pada jumlah ismiyyah dan mengubah keadaan dua unsur pokoknya: ism menjadi manshub dan khabar marfu‘. Kelompok ini memiliki makna seperti penegasan, penyamaan, koreksi, harapan, dan angan-angan.\n\nPokok kaidah\nHuruf yang umum dalam kelompok ini ialah إِنَّ, أَنَّ, كَأَنَّ, لَكِنَّ, لَيْتَ, dan لَعَلَّ. Makna, posisi, dan syarat masing-masing perlu dipelajari pada bagian kitab. Khabar dapat berbentuk kata tunggal, jumlah, atau syibh jumlah.\n\nContoh pembelajaran\nContoh baru: إِنَّ الْعِلْمَ نَافِعٌ. الْعِلْمَ adalah ism إنَّ manshub; نَافِعٌ adalah khabar إنَّ marfu‘.\n\nKesalahan yang perlu dihindari\nJangan menukar pola kana dengan inna: keduanya memiliki efek berbeda pada ism dan khabar.\n\nRingkasan\nKenali huruf nasikh, tentukan ism yang manshub dan khabar yang marfu‘, lalu jelaskan tandanya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 85–97 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "la-nafiyah-lil-jins",
+      "title": "La Nafi lil-Jins",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemahami penafian menyeluruh dan keadaan isim setelah لا النافية للجنس.\n\nInti materi\nلَا النافية للجنس digunakan untuk menafikan keberadaan seluruh jenis yang disebut setelahnya. Dalam konstruksi yang memenuhi syarat, ia beramal seperti إنَّ: ism-nya berada pada محل nasab dan khabar-nya marfu‘.\n\nPokok kaidah\nIsm لا dapat berupa mufrad yang dibina atas fathah pada محل nasab, mudhaf, atau syibh mudhaf; rincian tanda dan syaratnya bergantung pada bentuk ism. Khabar dapat disebut atau dibuang apabila dipahami dari konteks. Bab ini juga membedakan لا النافية للجنس dari penggunaan لا yang lain.\n\nContoh pembelajaran\nContoh baru: لَا طَالِبَ فِي الْفَصْلِ. طَالِبَ adalah ism لا النافية للجنس yang mabni atas fathah pada محل nasab; فِي الْفَصْلِ menjadi syibh jumlah yang berkaitan dengan khabar.\n\nKesalahan yang perlu dihindari\nJangan menyebut setiap لا sebagai لا النافية للجنس; periksa makna, bentuk ism, dan syarat amalnya.\n\nRingkasan\nTentukan jenis لا, bentuk ism-nya, dan bagaimana khabar dipahami dalam kalimat.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 98–103 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "zanna-wa-akhawatuha",
+      "title": "Zanna dan Saudaranya",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemahami fi‘il yang menjadikan dua unsur jumlah ismiyyah sebagai dua maf‘ul.\n\nInti materi\nظَنَّ dan saudaranya termasuk af‘al yang masuk pada susunan mubtada-khabar dan menashabkan kedua unsur tersebut. Unsur pertama menjadi maf‘ul bih pertama dan unsur kedua menjadi maf‘ul bih kedua dalam analisis yang lazim.\n\nPokok kaidah\nKelompok ini mencakup fi‘il yang menunjukkan dugaan, pengetahuan, atau penilaian sesuai rincian kitab. Sebagian fi‘il dapat digunakan dengan lebih dari satu pola, sehingga makna dan konstruksi harus dibaca bersama.\n\nContoh pembelajaran\nContoh baru: ظَنَنْتُ الْجَوَّ صَحْوًا. الْجَوَّ menjadi maf‘ul bih pertama dan صَحْوًا menjadi maf‘ul bih kedua; keduanya manshub.\n\nKesalahan yang perlu dihindari\nJangan menganalisis kata kedua sebagai khabar marfu‘ pada konstruksi yang telah dimasuki ظَنَّ dengan amal dua maf‘ul.\n\nRingkasan\nCari fi‘il yang beramal pada dua unsur, kemudian tentukan maf‘ul pertama dan kedua.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 104–111 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isim-manshub",
+      "title": "Peta Isim-Isim Manshub",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali kelompok-kelompok isim manshub sebelum mempelajari setiap bab.\n\nInti materi\nBagian ini berfungsi sebagai peta bab-bab isim manshub. Manshub tidak hanya berarti objek langsung; banyak fungsi nahwu lain yang memiliki tanda nasab karena hubungan yang berbeda dengan amilnya.\n\nPokok kaidah\nBab-bab yang dibahas sesudahnya mencakup maf‘ul bih, isytighal, munada, maf‘ul mutlaq, maf‘ul fih, maf‘ul min ajlih, maf‘ul ma‘ah, hal, tamyiz, mustatsna, dan fungsi manshub lain yang disebut dalam kitab. Jumlah kategori dapat berbeda menurut cara ulama mengelompokkannya.\n\nContoh pembelajaran\nContoh baru: قَرَأَ الطَّالِبُ الدَّرْسَ. الدَّرْسَ adalah maf‘ul bih manshub, salah satu jenis isim manshub.\n\nKesalahan yang perlu dihindari\nJangan berhenti pada label “manshub”; analisis perlu menyebut fungsi khusus dan tanda nasab.\n\nRingkasan\nGunakan konteks dan amil untuk membedakan jenis-jenis manshub.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 112 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "maf-ul-bih",
+      "title": "Maf‘ul Bih",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMenentukan objek yang dikenai perbuatan fi‘il muta‘addi.\n\nInti materi\nMaf‘ul bih adalah isim yang menjadi sasaran langsung suatu perbuatan pada konstruksi fi‘il muta‘addi. Pada pola dasar, maf‘ul bih berada dalam keadaan nasab dengan tanda yang mengikuti bentuk katanya.\n\nPokok kaidah\nMaf‘ul bih dapat berupa isim zhahir atau dhamir. Sebagian fi‘il mengambil satu maf‘ul bih, sementara fi‘il lain dapat mengambil dua atau lebih sesuai bab dan maknanya. Posisi objek juga dapat berubah urutannya untuk tujuan tertentu, tetapi fungsi sintaksis tetap ditentukan oleh struktur.\n\nContoh pembelajaran\nContoh baru: قَرَأَ الطَّالِبُ الدَّرْسَ. الدَّرْسَ adalah maf‘ul bih manshub dengan fathah.\n\nKesalahan yang perlu dihindari\nJangan menentukan objek hanya dari posisi terakhir; susunan Arab dapat berubah dan dhamir objek dapat melekat pada fi‘il.\n\nRingkasan\nTentukan fi‘il, pelaku, objek, lalu jelaskan tanda nasab pada maf‘ul bih.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 113–118 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "isytighal",
+      "title": "Isytighal",
+      "level": "Lanjutan",
+      "content": "Tujuan belajar\nMemahami susunan ketika fi‘il yang disebutkan telah sibuk dengan dhamir yang merujuk unsur sebelumnya.\n\nInti materi\nIsytighal terjadi ketika isim didahulukan, lalu fi‘il sesudahnya bekerja pada dhamir yang kembali kepada isim itu atau pada unsur yang berkaitan dengannya. Isim yang didahulukan dapat dinashabkan oleh fi‘il yang diperkirakan, atau dirafa‘kan melalui ibtida’, sesuai kondisi.\n\nPokok kaidah\nBab ini memuat syarat, faktor yang mewajibkan atau membolehkan nasab/rafa‘, dan contoh ketika unsur sesudahnya telah “sibuk” dengan dhamir. Karena hukum bergantung pada susunan dan konteks, contoh perlu dibaca bersama syarat dalam sumber.\n\nContoh pembelajaran\nContoh baru: الطَّالِبَ أَكْرَمْتُهُ. الطَّالِبَ dipahami sebagai objek yang didahulukan, sementara هُ pada أَكْرَمْتُهُ kembali kepadanya.\n\nKesalahan yang perlu dihindari\nJangan menilai kata pertama sebagai objek biasa tanpa memeriksa hubungan dhamir pada fi‘il berikutnya.\n\nRingkasan\nCari isim yang didahulukan, fi‘il yang sibuk dengan dhamir, lalu tentukan hukum i‘rab isim awal.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 119–125 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "munada",
+      "title": "Munada",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMenganalisis isim yang dipanggil dengan huruf nida’.\n\nInti materi\nMunada adalah isim yang dituju oleh panggilan, umumnya didahului يَا atau huruf nida’ lain. Hukum i‘rab atau bina’-nya bergantung pada bentuk munada: mufrad ma‘rifah/nakirah maqsudah, mudhaf, syibh mudhaf, atau nakirah yang tidak ditentukan.\n\nPokok kaidah\nMunada mufrad yang dimaksud secara tertentu umumnya dibina atas tanda rafa‘ pada محل nasab. Munada mudhaf dan syibh mudhaf pada umumnya manshub. Kitab juga membahas bentuk panggilan khusus, termasuk nida’ untuk ratapan (nudbah) dan bentuk lain.\n\nContoh pembelajaran\nContoh baru: يَا طَالِبُ، اجْتَهِدْ. طَالِبُ adalah munada nakirah maqsudah yang dibina atas dhammah pada محل nasab.\n\nKesalahan yang perlu dihindari\nJangan menganggap semua munada manshub dengan fathah; sebagian bentuk dibina pada tanda rafa‘.\n\nRingkasan\nTentukan huruf nida’, jenis munada, dan apakah hukum akhirnya i‘rab atau bina’.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 126–134 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "maf-ul-mutlaq",
+      "title": "Maf‘ul Mutlaq",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali mashdar yang menegaskan atau menjelaskan perbuatan fi‘il.\n\nInti materi\nMaf‘ul mutlaq adalah mashdar yang berkaitan dengan lafaz atau makna fi‘il. Ia dapat berfungsi menegaskan perbuatan, menjelaskan jenis/cara terjadinya, atau menunjukkan jumlah kejadian.\n\nPokok kaidah\nMaf‘ul mutlaq umumnya manshub. Kadang-kadang ia diikuti sifat atau idhafah untuk menjelaskan jenis atau jumlah. Kitab juga membahas bentuk-bentuk yang menggantikan mashdar dan rincian ketika mashdar dibuang atau digantikan unsur lain.\n\nContoh pembelajaran\nContoh baru: اجْتَهَدَ الطَّالِبُ اجْتِهَادًا. اجْتِهَادًا adalah maf‘ul mutlaq manshub yang menegaskan perbuatan اجْتَهَدَ.\n\nKesalahan yang perlu dihindari\nJangan menyamakan maf‘ul mutlaq dengan maf‘ul bih: yang pertama berkaitan dengan mashdar/perbuatan, sedangkan yang kedua adalah sasaran perbuatan.\n\nRingkasan\nCari mashdar yang seakar atau berkaitan dengan fi‘il, lalu tentukan fungsi penegasan, jenis, atau jumlah.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 135–139 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "maf-ul-fih",
+      "title": "Maf‘ul Fih (Zharaf Waktu dan Tempat)",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali zharaf yang menjelaskan kapan atau di mana perbuatan terjadi.\n\nInti materi\nMaf‘ul fih adalah isim yang menunjukkan waktu atau tempat terjadinya perbuatan dan berfungsi sebagai zharaf. Zharaf waktu menjawab kapan, sedangkan zharaf tempat menjawab di mana, dengan syarat dan penggunaan yang dijelaskan dalam kitab.\n\nPokok kaidah\nBentuk zharaf pada pola dasar manshub. Ada isim waktu/tempat yang digunakan sebagai zharaf secara langsung dan ada yang memerlukan huruf jarr atau konstruksi lain. Makna kata serta hubungannya dengan fi‘il menjadi dasar analisis.\n\nContoh pembelajaran\nContoh baru: سَافَرْتُ يَوْمَ الْجُمُعَةِ. يَوْمَ ظرف زمان منصوب dan الْجُمُعَةِ mudhaf ilayh majrur.\n\nKesalahan yang perlu dihindari\nJangan menyebut setiap kata tempat sebagai maf‘ul fih; periksa apakah ia digunakan sebagai zharaf atau berada dalam konstruksi jar-majrur.\n\nRingkasan\nTentukan apakah zharaf menyatakan waktu atau tempat, lalu jelaskan tanda nasabnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 140–148 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "maf-ul-min-ajlih",
+      "title": "Maf‘ul Min Ajlih",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMenganalisis mashdar yang menjelaskan sebab atau tujuan perbuatan.\n\nInti materi\nMaf‘ul min ajlih menjelaskan alasan atau tujuan suatu perbuatan. Dalam pola yang memenuhi syarat, ia berupa mashdar yang berkaitan dengan perbuatan utama dari sisi pelaku dan waktu, serta menunjukkan sebab yang mendorong tindakan.\n\nPokok kaidah\nMaf‘ul min ajlih dapat datang manshub tanpa huruf jarr apabila syaratnya terpenuhi. Dalam keadaan lain, makna sebab dapat diungkapkan dengan huruf jarr seperti لِـ. Kitab membahas juga keadaan ketika huruf jarr dihilangkan berdasarkan kelaziman atau perluasan penggunaan.\n\nContoh pembelajaran\nContoh baru: قُمْتُ احْتِرَامًا لِلْمُعَلِّمِ. احْتِرَامًا adalah mashdar manshub yang menjelaskan alasan berdiri.\n\nKesalahan yang perlu dihindari\nJangan menyebut semua mashdar manshub sebagai maf‘ul min ajlih; pastikan ia menjelaskan sebab/tujuan dan memenuhi syarat konstruksinya.\n\nRingkasan\nTanyakan “mengapa perbuatan itu dilakukan?” dan periksa apakah mashdar menjadi jawabannya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 149–151 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "maf-ul-maah",
+      "title": "Maf‘ul Ma‘ah",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMembedakan waw ma‘iyyah dari waw ‘athaf.\n\nInti materi\nMaf‘ul ma‘ah adalah isim manshub yang datang setelah waw yang bermakna kebersamaan. Waw ma‘iyyah menunjukkan bahwa suatu hal menyertai perbuatan, bukan selalu menjadi peserta yang di-‘athaf-kan pada unsur sebelumnya.\n\nPokok kaidah\nPenentuan antara maf‘ul ma‘ah dan ‘athaf bergantung pada makna, kemungkinan koordinasi, serta hubungan unsur-unsurnya. Kitab menguraikan keadaan ketika nasab sebagai maf‘ul ma‘ah lebih kuat dan ketika ‘athaf lebih tepat.\n\nContoh pembelajaran\nContoh baru: سِرْتُ وَالنِّيلَ. Dalam pembacaan waw ma‘iyyah, النِّيلَ adalah maf‘ul ma‘ah manshub, yakni sesuatu yang menyertai perjalanan.\n\nKesalahan yang perlu dihindari\nJangan menganggap setiap isim setelah waw manshub sebagai maf‘ul ma‘ah; waw bisa bermakna ‘athaf.\n\nRingkasan\nTentukan apakah waw menghubungkan dua unsur setara atau menyatakan kebersamaan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 152–153 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "hal-dan-musyabbah-bil-maful",
+      "title": "Hal dan Pengantar Musyabbah bil-Maf‘ul Bih",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali keterangan keadaan dan syaratnya dalam kalimat.\n\nInti materi\nHal menjelaskan keadaan صاحب الحال ketika perbuatan atau keadaan terjadi. Bagian sumber menguraikan hal sebagai sifat yang menjelaskan keadaan, dan mengaitkan pembahasannya dengan sifat/wasf serta kedudukannya yang menyerupai maf‘ul bih dalam konstruksi tertentu.\n\nPokok kaidah\nHal tunggal umumnya nakirah dan manshub; صاحب الحال sering berupa ma‘rifah. Hal dapat berupa kata tunggal atau jumlah. Jika berupa jumlah, harus ada rabith yang menghubungkannya dengan صاحب الحال, misalnya dhamir atau unsur pengikat lain. Kitab membahas syarat dan jenis-jenis hal, termasuk keadaan yang berkaitan dengan waktu.\n\nContoh pembelajaran\nContoh baru: جَاءَ زَيْدٌ رَاكِبًا. رَاكِبًا adalah hal manshub yang menjelaskan keadaan زَيْدٌ saat datang.\n\nKesalahan yang perlu dihindari\nJangan menganggap hal menjawab “apa yang dilakukan?” saja; hal terutama menjelaskan keadaan ketika peristiwa terjadi.\n\nRingkasan\nTemukan صاحب الحال, tanyakan “dalam keadaan bagaimana?”, lalu periksa bentuk dan tanda nasab hal.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 154–162 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "tamyiz",
+      "title": "Tamyiz",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMenemukan isim yang menghilangkan kesamaran pada makna sebelumnya.\n\nInti materi\nTamyiz adalah isim yang menjelaskan unsur yang masih samar pada suatu susunan. Tamyiz dapat memperjelas bilangan, ukuran, atau makna hubungan dalam kalimat. Dalam pola yang dibahas, tamyiz berupa isim nakirah manshub.\n\nPokok kaidah\nKitab membedakan tamyiz yang kesamarannya muncul dari lafaz yang disebut sebelumnya (malfuz) dan tamyiz yang memperjelas makna keseluruhan (malhuz). Bentuk dan tanda nasabnya bergantung pada konstruksi, sementara beberapa bentuk dapat muncul dengan aturan khusus.\n\nContoh pembelajaran\nContoh baru: اشْتَرَيْتُ عِشْرِينَ كِتَابًا. كِتَابًا menjelaskan jenis benda yang dihitung oleh عِشْرِينَ.\n\nKesalahan yang perlu dihindari\nJangan menyamakan tamyiz dengan na‘at atau hal; tamyiz menghilangkan kesamaran, bukan menerangkan sifat atau keadaan.\n\nRingkasan\nTemukan bagian yang masih samar dan kata yang memperjelasnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 163–166 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "mustatsna",
+      "title": "Mustatsna dan Istitsna’",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMenganalisis konstruksi pengecualian dengan إلا dan alat istitsna’ lain.\n\nInti materi\nIstitsna’ adalah pengecualian satu unsur dari hukum yang dinyatakan untuk kelompok atau rangkaian sebelumnya. Unsur yang dikecualikan disebut mustatsna, sedangkan alat pengecualian yang paling dikenal ialah إِلَّا.\n\nPokok kaidah\nHukum mustatsna berubah menurut kalimat lengkap atau tidak, positif atau negatif, dan apakah mustatsna minhu disebutkan. Dalam istitsna’ tam muttashil, posisi i‘rabnya berbeda antara kalimat afirmatif dan negatif; ada juga bentuk munqathi‘ serta alat istitsna’ lain. Rincian harus dibaca bersama contoh dalam sumber.\n\nContoh pembelajaran\nContoh baru: حَضَرَ الطُّلَّابُ إِلَّا طَالِبًا. Dalam istitsna’ lengkap afirmatif, طَالِبًا menjadi mustatsna manshub.\n\nKesalahan yang perlu dihindari\nJangan menerapkan satu hukum mustatsna untuk semua kalimat; periksa jenis istitsna’ dan polaritasnya.\n\nRingkasan\nTentukan mustatsna minhu, alat istitsna’, jenis konstruksi, lalu pilih hukum i‘rab yang sesuai.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 167–174 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "mahfudhat-minal-asma",
+      "title": "Isim-Isim Majrur (Mahfudhat min al-Asma)",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMengenali tiga jalur utama yang menyebabkan isim berada dalam keadaan jarr.\n\nInti materi\nMahfudhat min al-asma adalah kelompok isim yang berada dalam keadaan jarr. Pembahasan nahwu umumnya menempatkan isim majrur karena huruf jarr, karena menjadi mudhaf ilayh, atau karena mengikuti kata majrur sebagai tabi‘.\n\nPokok kaidah\nHuruf jarr mengubah isim sesudahnya menjadi majrur; mudhaf ilayh juga majrur dalam susunan idhafah; sedangkan na‘at, ‘athaf, taukid, dan badal mengikuti i‘rab kata yang diikutinya. Tanda jarr dapat berupa kasrah atau tanda pengganti seperti ya atau fathah pada mamnu‘ min ash-sharf dalam kondisi tertentu.\n\nContoh pembelajaran\nContoh baru: مَرَرْتُ بِطَالِبِ الْعِلْمِ. طَالِبِ majrur oleh بِـ dan الْعِلْمِ majrur sebagai mudhaf ilayh.\n\nKesalahan yang perlu dihindari\nJangan menyebut semua isim setelah kata lain sebagai mudhaf ilayh; periksa apakah ada huruf jarr atau hubungan tabi‘.\n\nRingkasan\nSebutkan sebab jarr secara tepat: huruf jarr, idhafah, atau mengikuti unsur majrur.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 175–190 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "irab-al-afal",
+      "title": "I‘rab Fi‘il",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMembedakan fi‘il mabni dan fi‘il mudhari‘ yang mu‘rab.\n\nInti materi\nBab ini menguraikan i‘rab fi‘il. Fi‘il madhi dan fi‘il amr pada dasarnya mabni, sedangkan fi‘il mudhari‘ dapat mu‘rab kecuali pada kondisi yang membuatnya mabni. Keadaan fi‘il mudhari‘ bergantung pada ada atau tidaknya nawashib dan jawazim serta bentuk akhir kata.\n\nPokok kaidah\nFi‘il mudhari‘ marfu‘ ketika tidak didahului amil nasab atau jazm; manshub setelah nawashib; dan majzum setelah jawazim. Af‘al khamsah memiliki tanda khusus berupa tetapnya nun ketika rafa‘ dan membuang nun ketika nasab/jazm. Fi‘il berakhir huruf ‘illat memiliki rincian tanda yang tampak atau diperkirakan.\n\nContoh pembelajaran\nContoh baru: لَنْ يَكْتُبَ الطَّالِبُ. يَكْتُبَ adalah fi‘il mudhari‘ manshub oleh لَنْ dengan fathah.\n\nKesalahan yang perlu dihindari\nJangan menganggap semua fi‘il mudhari‘ selalu marfu‘; periksa amil yang mendahuluinya.\n\nRingkasan\nKenali jenis fi‘il, cari nawashib/jawazim, lalu tentukan status dan tanda akhirnya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 191–208 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "naat",
+      "title": "Na‘at",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMenganalisis sifat yang mengikuti isim yang disifati (man‘ut).\n\nInti materi\nNa‘at adalah tabi‘ yang menjelaskan atau membatasi kata sebelumnya. Na‘at mengikuti man‘ut dalam i‘rab dan memiliki kesesuaian lain seperti ma‘rifah-nakirah, gender, dan jumlah sesuai jenis na‘at dan konstruksinya.\n\nPokok kaidah\nKitab membahas na‘at haqiqi dan na‘at sababi serta syarat-syarat masing-masing. Na‘at dapat berupa sifat turunan atau bentuk yang ditakwil sebagai sifat. Keselarasan pada na‘at sababi berbeda pada sebagian aspek karena sifatnya berkaitan dengan unsur setelahnya.\n\nContoh pembelajaran\nContoh baru: جَاءَ الطَّالِبُ الْمُجْتَهِدُ. الْمُجْتَهِدُ adalah na‘at marfu‘ yang mengikuti الطَّالِبُ.\n\nKesalahan yang perlu dihindari\nJangan mengira setiap kata setelah isim adalah na‘at; pastikan ada hubungan sifat dan kesesuaian yang diperlukan.\n\nRingkasan\nTemukan man‘ut, identifikasi sifatnya, lalu cocokkan i‘rab dan kesesuaian bentuk.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 209–219 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "athaf",
+      "title": "‘Athaf",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMemahami hubungan koordinasi dan pengaruh huruf ‘athaf pada i‘rab.\n\nInti materi\n‘Athaf menghubungkan satu unsur dengan unsur lain melalui huruf ‘athaf. Unsur yang mengikuti disebut ma‘thuf dan mengikuti i‘rab ma‘thuf ‘alaih. Makna hubungan berubah menurut huruf yang dipakai.\n\nPokok kaidah\nHuruf-huruf ‘athaf yang umum dipelajari antara lain وَ, فَ, ثُمَّ, أَوْ, أَمْ, بَلْ, لَكِنْ, لَا, dan حَتَّى pada kondisi tertentu. Huruf-huruf tersebut tidak semuanya menyatakan makna yang sama: ada yang menunjukkan urutan, jeda, pilihan, koreksi, atau penggabungan.\n\nContoh pembelajaran\nContoh baru: جَاءَ زَيْدٌ وَعَمْرٌو. عَمْرٌو adalah ma‘thuf dan mengikuti rafa‘ pada زَيْدٌ.\n\nKesalahan yang perlu dihindari\nJangan memberi tanda i‘rab baru pada ma‘thuf tanpa mempertimbangkan unsur yang diikutinya.\n\nRingkasan\nTentukan huruf ‘athaf, ma‘thuf ‘alaih, ma‘thuf, dan makna hubungan keduanya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 220–236 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "taukid",
+      "title": "Taukid",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali penguat yang menegaskan kata atau makna sebelumnya.\n\nInti materi\nTaukid adalah tabi‘ yang memperkuat atau menegaskan mu’akkad agar maknanya lebih jelas. Kitab membahas taukid lafzhi, yaitu pengulangan lafaz, dan taukid ma‘nawi dengan lafaz tertentu.\n\nPokok kaidah\nTaukid mengikuti mu’akkad dalam i‘rab. Bentuk ma‘nawi yang dikenal mencakup نَفْس, عَيْن, كُلّ, جَمِيع, dan bentuk lain dengan syarat idhafah atau konteks tertentu. Tidak semua pengulangan otomatis menjadi taukid; fungsi retoris dan struktur perlu diperhatikan.\n\nContoh pembelajaran\nContoh baru: جَاءَ الْمُدِيرُ نَفْسُهُ. نَفْسُهُ menjadi taukid ma‘nawi marfu‘ yang mengikuti الْمُدِيرُ.\n\nKesalahan yang perlu dihindari\nJangan menyebut taukid sebagai na‘at biasa; taukid menguatkan referen, bukan menambahkan sifat baru.\n\nRingkasan\nTemukan mu’akkad dan lafaz penguat, lalu pastikan i‘rabnya mengikuti unsur yang dikuatkan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 237–241 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "badal",
+      "title": "Badal",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali tabi‘ yang menjelaskan atau menggantikan referen kata sebelumnya.\n\nInti materi\nBadal adalah tabi‘ yang mengikuti kata sebelumnya dan menjelaskan atau menggantikannya dalam susunan. Kitab membahas beberapa jenis, termasuk badal kull min kull, ba‘dh min kull, dan isytimal, dengan hubungan makna yang berbeda.\n\nPokok kaidah\nBadal mengikuti i‘rab mubdal minhu. Pada badal kull min kull, kedua kata menunjuk referen yang sama; pada ba‘dh min kull, badal menunjuk bagian; pada isytimal, badal menunjuk sesuatu yang berhubungan dengan referen bukan bagian fisik langsung. Perbedaan ini perlu dibuktikan dari makna kalimat.\n\nContoh pembelajaran\nContoh baru: جَاءَ أَخُوكَ زَيْدٌ. زَيْدٌ dapat dianalisis sebagai badal marfu‘ yang menjelaskan siapa أَخُوكَ.\n\nKesalahan yang perlu dihindari\nJangan menamai setiap kata kedua sebagai badal; periksa hubungan penjelasan dan referennya.\n\nRingkasan\nTentukan mubdal minhu, jenis hubungan badal, dan i‘rab yang diikutinya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 242–247 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "asma-amila-amal-alfil",
+      "title": "Isim-Isim yang Beramal seperti Fi‘il",
+      "level": "Lanjutan",
+      "content": "Tujuan belajar\nMemahami bagaimana beberapa bentuk isim dapat memengaruhi unsur sesudahnya seperti fi‘il.\n\nInti materi\nKitab menjelaskan bahwa asal amal adalah pada fi‘il, tetapi beberapa isim dapat beramal karena kemiripannya dengan fi‘il. Ketika syarat amal terpenuhi, isim tertentu dapat merafa‘kan fa‘il atau menashabkan maf‘ul dan unsur yang terkait.\n\nPokok kaidah\nPembahasan meliputi bentuk-bentuk wasf dan mashdar yang memiliki amal, dengan syarat yang berbeda sesuai bentuk dan makna. Amal isim tidak otomatis berlaku pada semua kemunculan kata; posisi, makna, alif-lam, idhafah, dan unsur lain dapat memengaruhi syaratnya.\n\nContoh pembelajaran\nContoh baru: هَذَا كَاتِبٌ الدَّرْسَ. Pada penggunaan ism fa‘il yang beramal dan memenuhi syarat, كَاتِبٌ dapat bekerja seperti fi‘il dan الدَّرْسَ menjadi objeknya; contoh ini perlu ditinjau bersama konteks dan syarat amal dalam sumber.\n\nKesalahan yang perlu dihindari\nJangan menganggap semua ism fa‘il selalu beramal; periksa syarat amal pada konstruksi yang dipakai.\n\nRingkasan\nKenali bentuk isim, tentukan amal yang dihasilkan, lalu identifikasi unsur yang dirafa‘kan atau dinashabkan.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 248–259 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "tanazu-fil-amal",
+      "title": "Tanazu‘ fi al-‘Amal",
+      "level": "Lanjutan",
+      "content": "Tujuan belajar\nMemahami persaingan dua amil terhadap satu ma‘mul.\n\nInti materi\nTanazu‘ terjadi ketika dua amil datang dan keduanya berkaitan dengan satu unsur yang disebut setelahnya. Ahli nahwu membahas amil mana yang mengamalkan unsur tersebut dan bagaimana amil lainnya dihubungkan melalui dhamir.\n\nPokok kaidah\nAnalisis tanazu‘ menuntut identifikasi dua amil, unsur yang diperebutkan (mutanaza‘ fih), serta kemungkinan dhamir yang menggantikan unsur tersebut. Pilihan analisis memiliki aturan dan perbedaan yang dijelaskan dalam kitab, sehingga tidak cukup hanya menerjemahkan kalimat.\n\nContoh pembelajaran\nContoh pola latihan baru: أَكْرَمَنِي وَأَكْرَمْتُ زَيْدًا. Pada latihan tanazu‘, pembaca diminta memeriksa dua amil dan hubungan masing-masing dengan unsur yang menjadi sasaran.\n\nKesalahan yang perlu dihindari\nJangan langsung menetapkan amil hanya dari kedekatan kata; bab ini membahas aturan pemilihan amil dan dhamir pengganti.\n\nRingkasan\nTandai kedua amil, ma‘mul yang diperebutkan, dan pilihan analisis sesuai aturan kitab.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 260–261 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "taajjub",
+      "title": "Ta‘ajjub",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMengenali pola ungkapan kekaguman dalam bahasa Arab.\n\nInti materi\nTa‘ajjub adalah ungkapan yang menunjukkan rasa kagum atau penilaian kuat terhadap suatu sifat. Dalam nahwu, pola yang paling dikenal ialah مَا أَفْعَلَهُ dan أَفْعِلْ بِهِ, yang memiliki susunan dan analisis tersendiri.\n\nPokok kaidah\nPembentukan ta‘ajjub langsung memiliki syarat terkait sifat fi‘il asalnya. Jika syarat tidak terpenuhi, digunakan cara tidak langsung dengan kata bantu yang sesuai. Kitab membahas ketentuan bentuk, unsur yang dikagumi, dan i‘rab pada pola-pola tersebut.\n\nContoh pembelajaran\nContoh baru: مَا أَجْمَلَ السَّمَاءَ! مَا menjadi unsur pembentuk pola ta‘ajjub, أَجْمَلَ mengikuti pola أَفْعَلَ, dan السَّمَاءَ adalah unsur yang dikagumi pada posisi nasab.\n\nKesalahan yang perlu dihindari\nJangan memperlakukan pola ta‘ajjub seperti kalimat fi‘il biasa tanpa memperhatikan konstruksi khususnya.\n\nRingkasan\nKenali pola ta‘ajjub, tentukan unsur yang dikagumi, lalu analisis sesuai pola tersebut.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 262–264 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "adad",
+      "title": "‘Adad (Bilangan)",
+      "level": "Menengah",
+      "content": "Tujuan belajar\nMemahami kesesuaian bilangan dengan benda yang dihitung.\n\nInti materi\n‘Adad adalah kata bilangan yang menjawab pertanyaan “berapa?”. Bab ini menyoroti hubungan bilangan dengan ma‘dud, termasuk kesesuaian atau perbedaan gender dan bentuk ma‘dud menurut kelompok bilangan.\n\nPokok kaidah\nHukum bilangan berbeda antara 1–2, 3–10, 11–19, puluhan, ratusan, dan bentuk gabungan. Ma‘dud juga dapat berubah menjadi mufrad atau jamak dan memiliki keadaan i‘rab tertentu. Karena aturannya rinci, siswa sebaiknya mempelajari tabel kelompok bilangan dari halaman sumber sebelum membuat generalisasi.\n\nContoh pembelajaran\nContoh baru: عِنْدِي ثَلَاثَةُ كُتُبٍ. Pada bilangan tiga, bentuk bilangan mengikuti aturan gender yang berbeda dari ma‘dud; كُتُبٍ menjadi mudhaf ilayh majrur dalam susunan ini.\n\nKesalahan yang perlu dihindari\nJangan menerapkan satu aturan gender pada semua bilangan; tiap rentang bilangan memiliki ketentuan tersendiri.\n\nRingkasan\nIdentifikasi bilangan dan ma‘dud, tentukan aturan gender/jumlah, lalu jelaskan kedudukan i‘rab keduanya.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 265–268 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "waqaf",
+      "title": "Waqaf (Berhenti pada Akhir Lafaz)",
+      "level": "Lanjutan",
+      "content": "Tujuan belajar\nMemahami perubahan pelafalan ketika berhenti pada akhir kata.\n\nInti materi\nWaqaf adalah menghentikan suara pada akhir lafaz untuk berhenti atau mengambil napas. Pembahasan waqaf berkaitan dengan bentuk akhir kata saat dibaca sambung dan saat berhenti, termasuk perubahan pelafalan pada harakat, tanwin, ta’ marbuthah, dan bentuk tertentu.\n\nPokok kaidah\nWaqaf tidak selalu mengubah kedudukan i‘rab dalam analisis nahwu; ia terutama berkaitan dengan cara melafalkan akhir kata. Karena itu, bedakan tanda i‘rab yang berlaku pada susunan kalimat dengan cara membaca ketika berhenti.\n\nContoh pembelajaran\nContoh baru: الْحَمْدُ لِلَّهِ. Jika berhenti pada akhir lafaz اللَّهِ, cara waqafnya mengikuti kaidah pelafalan waqaf, sementara kedudukan jarr dalam susunan tetap dipahami dari konteks.\n\nKesalahan yang perlu dihindari\nJangan menyamakan bentuk waqaf dengan tanda i‘rab asli; pelafalan berhenti dan analisis sintaksis adalah dua lapisan berbeda.\n\nRingkasan\nTentukan bentuk akhir ketika washal dan cara membacanya ketika waqaf, tanpa menghapus analisis sintaksis.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 269–271 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    },
+    {
+      "slug": "penutup-panduan-belajar",
+      "title": "Penutup Kitab dan Panduan Belajar Mandiri",
+      "level": "Dasar",
+      "content": "Tujuan belajar\nMenyusun strategi mengulang dan menerapkan kaidah dari seluruh kitab.\n\nInti materi\nBagian penutup kitab menyampaikan harapan agar karya terjemahan memberi manfaat. Untuk kebutuhan LMS, bagian ini dijadikan pengingat bahwa belajar nahwu berlangsung melalui pembacaan, latihan, pengulangan, dan pemeriksaan kaidah secara berkelanjutan.\n\nPokok kaidah\nSetelah menyelesaikan materi, siswa dapat kembali ke bab dasar, mengulang istilah, lalu menguji kaidah pada kalimat baru. Setiap analisis sebaiknya menyebut fungsi kata, status i‘rab/bina’, tanda akhir, dan alasan gramatikalnya. Rujukan halaman tetap menjadi jalan untuk memeriksa rincian serta pengecualian.\n\nContoh pembelajaran\nStrategi belajar: baca ringkasan, tandai kaidah, analisis satu kalimat, cocokkan dengan pembahasan, lalu catat pola kesalahan untuk diulang.\n\nKesalahan yang perlu dihindari\nJangan menghafal kunci tanpa memahami alasan dan kondisi berlakunya kaidah.\n\nRingkasan\nGunakan rangkuman sebagai peta belajar, bukan pengganti pembacaan sumber ketika menemukan masalah atau pengecualian.\n\nCatatan akademik\nRangkuman ini disusun dengan bahasa sendiri berdasarkan topik dan rentang halaman yang dirujuk. Rincian, syarat, khilaf nahwu, dan pengecualian harus diperiksa kembali pada kitab sumber sebelum materi digunakan untuk penilaian resmi.",
+      "source_title": "Intisari Kitab Al-Kawakib Al-Durriyyah Syarah Mutammimah Al-Jurumiyyah",
+      "source_author": "Iswandi El-Nisamy",
+      "source_edition": "CV. Manhaji Medan, 2020; editor Tgk. Dr. Safriadi, MA.",
+      "source_pages": "hlm. 272 (penomoran tercetak dalam kitab)",
+      "status": "draft"
+    }
+  ],
+  "questions": [
+    {
+      "slug": "latihan-kalam",
+      "title": "Bedah Kalam: جَاءَ الطَّالِبُ",
+      "sentence": "جَاءَ الطَّالِبُ",
+      "translation": "Siswa itu datang.",
+      "difficulty": "Dasar",
+      "material_slug": "pengertian-kalam",
+      "source_pages": "Landasan konsep: hlm. 1–6; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi menunjukkan perbuatan lampau dan pada contoh ini mabni atas fathah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "Isim ini menunjukkan pihak yang datang, sehingga menjadi fa‘il dan marfu‘ dengan dhammah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-irab-bina",
+      "title": "Bedah I‘rab dan Bina’: لَنْ يَكْتُبَ الطَّالِبُ",
+      "sentence": "لَنْ يَكْتُبَ الطَّالِبُ",
+      "translation": "Siswa itu tidak akan menulis.",
+      "difficulty": "Dasar",
+      "material_slug": "irab-dan-bina",
+      "source_pages": "Landasan konsep: hlm. 7–11; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "لَنْ",
+          "role": "حرف نصب ونفي واستقبال",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "لَنْ menashabkan fi‘il mudhari‘ setelahnya."
+        },
+        {
+          "word": "يَكْتُبَ",
+          "role": "فعل مضارع",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il mudhari‘ manshub oleh لَنْ dengan fathah yang tampak."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "Isim ini adalah pelaku dari يكتب dan marfu‘ dengan dhammah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-tanda-irab",
+      "title": "Bedah Tanda I‘rab: إِنَّ الطَّالِبَيْنِ مُجْتَهِدَانِ",
+      "sentence": "إِنَّ الطَّالِبَيْنِ مُجْتَهِدَانِ",
+      "translation": "Sesungguhnya dua siswa itu bersungguh-sungguh.",
+      "difficulty": "Menengah",
+      "material_slug": "tanda-tanda-irab",
+      "source_pages": "Landasan konsep: hlm. 12–16; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "إِنَّ",
+          "role": "حرف توكيد ونصب",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "إِنَّ adalah huruf nasikh yang menashabkan ism dan merafa‘kan khabar."
+        },
+        {
+          "word": "الطَّالِبَيْنِ",
+          "role": "اسم إنَّ",
+          "irob": "منصوب",
+          "sign": "الياء لأنه مثنى",
+          "reason": "الطَّالِبَيْنِ adalah ism إنَّ berbentuk mutsanna; tanda nasabnya ya."
+        },
+        {
+          "word": "مُجْتَهِدَانِ",
+          "role": "خبر إنَّ",
+          "irob": "مرفوع",
+          "sign": "الألف لأنه مثنى",
+          "reason": "مُجْتَهِدَانِ adalah khabar إنَّ dan marfu‘ dengan alif karena mutsanna."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-bentuk-irab",
+      "title": "Bedah Isim Mutsanna: حَضَرَ الْمُعَلِّمَانِ",
+      "sentence": "حَضَرَ الْمُعَلِّمَانِ",
+      "translation": "Dua guru itu hadir.",
+      "difficulty": "Dasar",
+      "material_slug": "kalimat-yang-di-irab",
+      "source_pages": "Landasan konsep: hlm. 17–20; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "حَضَرَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الْمُعَلِّمَانِ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الألف لأنه مثنى",
+          "reason": "الْمُعَلِّمَانِ adalah fa‘il berbentuk mutsanna, tanda rafa‘-nya alif."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-harakat-muqaddarah",
+      "title": "Bedah I‘rab Muqaddarah: جَاءَ الْفَتَى",
+      "sentence": "جَاءَ الْفَتَى",
+      "translation": "Pemuda itu datang.",
+      "difficulty": "Menengah",
+      "material_slug": "harakat-muqaddarah",
+      "source_pages": "Landasan konsep: hlm. 21–22; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الْفَتَى",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة المقدرة على الألف للتعذر",
+          "reason": "الْفَتَى adalah fa‘il; dhammah diperkirakan pada alif maqshurah karena sulit ditampakkan."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-mamnu-sarf",
+      "title": "Bedah Mamnu‘ min ash-Sharf: سَلَّمْتُ عَلَى أَحْمَدَ",
+      "sentence": "سَلَّمْتُ عَلَى أَحْمَدَ",
+      "translation": "Aku memberi salam kepada Ahmad.",
+      "difficulty": "Menengah",
+      "material_slug": "isim-mamnu-minas-sharf",
+      "source_pages": "Landasan konsep: hlm. 23–31; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "سَلَّمْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "الفتحة على الفعل، والتاء ضمير في محل رفع فاعل",
+          "reason": "Fi‘il madhi diikuti ta’ fa‘il sebagai dhamir pelaku."
+        },
+        {
+          "word": "عَلَى",
+          "role": "حرف جر",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "عَلَى adalah huruf jarr."
+        },
+        {
+          "word": "أَحْمَدَ",
+          "role": "اسم مجرور",
+          "irob": "مجرور",
+          "sign": "الفتحة نيابة عن الكسرة لأنه ممنوع من الصرف",
+          "reason": "أَحْمَدَ majrur oleh عَلَى; fathah menggantikan kasrah karena mamnu‘ min ash-sharf dalam konteks ini."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-nakirah-marifah",
+      "title": "Bedah Nakirah dan Ma‘rifah: جَاءَ طَالِبٌ",
+      "sentence": "جَاءَ طَالِبٌ",
+      "translation": "Seorang siswa datang.",
+      "difficulty": "Dasar",
+      "material_slug": "nakirah-marifah",
+      "source_pages": "Landasan konsep: hlm. 32–33; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "طَالِبٌ",
+          "role": "فاعل نكرة",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة مع التنوين",
+          "reason": "طَالِبٌ adalah fa‘il dan berbentuk nakirah karena tidak ditentukan serta menerima tanwin."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-dhamir",
+      "title": "Bedah Dhamir: كَتَبْتُ الدَّرْسَ",
+      "sentence": "كَتَبْتُ الدَّرْسَ",
+      "translation": "Aku menulis pelajaran itu.",
+      "difficulty": "Dasar",
+      "material_slug": "isim-dhamir",
+      "source_pages": "Landasan konsep: hlm. 34–38; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "كَتَبْتُ",
+          "role": "فعل ماضٍ والتاء ضمير فاعل",
+          "irob": "مبني",
+          "sign": "الفعل مبني على السكون لاتصاله بتاء الفاعل",
+          "reason": "Fi‘il madhi bersukun karena tersambung dengan ta’ fa‘il; ta’ adalah dhamir dalam محل رفع sebagai fa‘il."
+        },
+        {
+          "word": "الدَّرْسَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الدَّرْسَ adalah objek dari كَتَبْتُ dan manshub dengan fathah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-alam",
+      "title": "Bedah Isim ‘Alam: جَاءَ مُحَمَّدٌ",
+      "sentence": "جَاءَ مُحَمَّدٌ",
+      "translation": "Muhammad datang.",
+      "difficulty": "Dasar",
+      "material_slug": "isim-alam",
+      "source_pages": "Landasan konsep: hlm. 39–42; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "مُحَمَّدٌ",
+          "role": "اسم علم فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "مُحَمَّدٌ adalah nama diri yang berfungsi sebagai fa‘il marfu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-isyarah",
+      "title": "Bedah Isim Isyarah: هَذَا كِتَابٌ",
+      "sentence": "هَذَا كِتَابٌ",
+      "translation": "Ini sebuah buku.",
+      "difficulty": "Dasar",
+      "material_slug": "isim-isyarah",
+      "source_pages": "Landasan konsep: hlm. 43; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "هَذَا",
+          "role": "اسم إشارة مبتدأ",
+          "irob": "مبني في محل رفع",
+          "sign": "السكون/البناء على السكون المقدر في آخره",
+          "reason": "هَذَا adalah isim isyarah yang menempati محل رفع sebagai mubtada."
+        },
+        {
+          "word": "كِتَابٌ",
+          "role": "خبر",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "كِتَابٌ memberi informasi tentang mubtada dan marfu‘ dengan dhammah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maushul",
+      "title": "Bedah Isim Maushul: جَاءَ الطَّالِبُ الَّذِي نَجَحَ",
+      "sentence": "جَاءَ الطَّالِبُ الَّذِي نَجَحَ",
+      "translation": "Siswa yang berhasil itu datang.",
+      "difficulty": "Menengah",
+      "material_slug": "isim-maushul",
+      "source_pages": "Landasan konsep: hlm. 44–48; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah fa‘il marfu‘."
+        },
+        {
+          "word": "الَّذِي",
+          "role": "اسم موصول نعت",
+          "irob": "مبني في محل رفع",
+          "sign": "مبني على السكون",
+          "reason": "الَّذِي menjadi sifat bagi الطَّالِبُ dan mengikuti posisi rafa‘ dalam محل-nya."
+        },
+        {
+          "word": "نَجَحَ",
+          "role": "فعل ماضٍ في صلة الموصول",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "نَجَحَ adalah fi‘il pada shilah al-maushul; rangkaian shilah melengkapi makna الَّذِي."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-alif-lam",
+      "title": "Bedah Ma‘rifah dengan Alif-Lam: قَرَأَ الطَّالِبُ كِتَابًا",
+      "sentence": "قَرَأَ الطَّالِبُ كِتَابًا",
+      "translation": "Siswa itu membaca sebuah buku.",
+      "difficulty": "Dasar",
+      "material_slug": "marifah-alif-lam",
+      "source_pages": "Landasan konsep: hlm. 49–50; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "قَرَأَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل معرفة بأل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah fa‘il dan ma‘rifah karena alif-lam."
+        },
+        {
+          "word": "كِتَابًا",
+          "role": "مفعول به نكرة",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة مع التنوين",
+          "reason": "كِتَابًا adalah objek dan nakirah; tanda nasabnya fathah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-idhafah",
+      "title": "Bedah Idhafah: هَذَا كِتَابُ الطَّالِبِ",
+      "sentence": "هَذَا كِتَابُ الطَّالِبِ",
+      "translation": "Ini buku milik siswa itu.",
+      "difficulty": "Dasar",
+      "material_slug": "idhafah-ke-marifah",
+      "source_pages": "Landasan konsep: hlm. 51; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "هَذَا",
+          "role": "اسم إشارة مبتدأ",
+          "irob": "مبني في محل رفع",
+          "sign": "مبني",
+          "reason": "هَذَا menjadi mubtada dalam محل رفع."
+        },
+        {
+          "word": "كِتَابُ",
+          "role": "خبر وهو مضاف",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "كِتَابُ adalah khabar marfu‘ dan mudhaf."
+        },
+        {
+          "word": "الطَّالِبِ",
+          "role": "مضاف إليه",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "الطَّالِبِ adalah mudhaf ilayh majrur dengan kasrah."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-marfu",
+      "title": "Bedah Isim Marfu‘: حَضَرَ الْمُعَلِّمُ وَالطَّالِبُ",
+      "sentence": "حَضَرَ الْمُعَلِّمُ وَالطَّالِبُ",
+      "translation": "Guru dan siswa itu hadir.",
+      "difficulty": "Dasar",
+      "material_slug": "isim-marfu",
+      "source_pages": "Landasan konsep: hlm. 52; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "حَضَرَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الْمُعَلِّمُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْمُعَلِّمُ adalah fa‘il marfu‘."
+        },
+        {
+          "word": "وَ",
+          "role": "حرف عطف",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "وَ menghubungkan unsur yang setara."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "معطوف على الفاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ di-‘athaf-kan kepada الْمُعَلِّمُ dan mengikuti rafa‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-fail",
+      "title": "Bedah Fa‘il: كَتَبَ الْوَلَدُ الرِّسَالَةَ",
+      "sentence": "كَتَبَ الْوَلَدُ الرِّسَالَةَ",
+      "translation": "Anak laki-laki itu menulis surat.",
+      "difficulty": "Dasar",
+      "material_slug": "fail",
+      "source_pages": "Landasan konsep: hlm. 53–57; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "كَتَبَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi menunjukkan tindakan menulis."
+        },
+        {
+          "word": "الْوَلَدُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْوَلَدُ adalah pihak yang melakukan tindakan menulis."
+        },
+        {
+          "word": "الرِّسَالَةَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الرِّسَالَةَ adalah objek yang ditulis."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-naib-fail",
+      "title": "Bedah Na’ib Fa‘il: كُتِبَ الدَّرْسُ",
+      "sentence": "كُتِبَ الدَّرْسُ",
+      "translation": "Pelajaran itu ditulis.",
+      "difficulty": "Dasar",
+      "material_slug": "naib-fail",
+      "source_pages": "Landasan konsep: hlm. 58–62; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "كُتِبَ",
+          "role": "فعل ماضٍ مبني للمجهول",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "كُتِبَ adalah fi‘il madhi pasif."
+        },
+        {
+          "word": "الدَّرْسُ",
+          "role": "نائب فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الدَّرْسُ menggantikan fa‘il yang tidak disebutkan dan marfu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-mubtada-khabar",
+      "title": "Bedah Mubtada dan Khabar: الطَّالِبُ مُجْتَهِدٌ",
+      "sentence": "الطَّالِبُ مُجْتَهِدٌ",
+      "translation": "Siswa itu bersungguh-sungguh.",
+      "difficulty": "Dasar",
+      "material_slug": "mubtada-khabar",
+      "source_pages": "Landasan konsep: hlm. 63–72; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "الطَّالِبُ",
+          "role": "مبتدأ",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah unsur yang dibicarakan."
+        },
+        {
+          "word": "مُجْتَهِدٌ",
+          "role": "خبر",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "مُجْتَهِدٌ memberikan informasi tentang mubtada."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-kana",
+      "title": "Bedah Kana: كَانَ الطَّالِبُ مُجْتَهِدًا",
+      "sentence": "كَانَ الطَّالِبُ مُجْتَهِدًا",
+      "translation": "Siswa itu dahulu/berada dalam keadaan bersungguh-sungguh.",
+      "difficulty": "Menengah",
+      "material_slug": "kana-wa-akhawatuha",
+      "source_pages": "Landasan konsep: hlm. 73–79; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "كَانَ",
+          "role": "فعل ماضٍ ناقص",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "كَانَ adalah fi‘il naqish yang masuk pada jumlah ismiyyah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "اسم كان",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah ism kana dan tetap marfu‘."
+        },
+        {
+          "word": "مُجْتَهِدًا",
+          "role": "خبر كان",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "مُجْتَهِدًا adalah khabar kana yang manshub."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-musyabbah-laisa",
+      "title": "Bedah Huruf yang Beramal seperti Laisa: مَا الطَّالِبُ مُهْمِلًا",
+      "sentence": "مَا الطَّالِبُ مُهْمِلًا",
+      "translation": "Siswa itu bukan orang yang lalai.",
+      "difficulty": "Menengah",
+      "material_slug": "huruf-musyabbahah-bilaisa",
+      "source_pages": "Landasan konsep: hlm. 80–82; amal مَا bergantung pada syarat yang dibahas dalam kitab.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "مَا",
+          "role": "حرف نفي يعمل عمل ليس في هذا الاستعمال",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "مَا menafikan dan pada pemakaian yang memenuhi syarat dapat beramal seperti ليس."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "اسم ما",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah ism مَا yang marfu‘ pada konstruksi ini."
+        },
+        {
+          "word": "مُهْمِلًا",
+          "role": "خبر ما",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "مُهْمِلًا adalah khabar مَا yang manshub dalam konstruksi yang mengamalkan seperti ليس."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-muqarabah",
+      "title": "Bedah Fi‘il Muqarabah: كَادَ الطَّالِبُ يَنْجَحُ",
+      "sentence": "كَادَ الطَّالِبُ يَنْجَحُ",
+      "translation": "Siswa itu hampir berhasil.",
+      "difficulty": "Menengah",
+      "material_slug": "afal-muqarabah",
+      "source_pages": "Landasan konsep: hlm. 83–84; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "كَادَ",
+          "role": "فعل ماضٍ ناقص للمقاربة",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "كَادَ menunjukkan bahwa suatu kejadian hampir berlangsung."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "اسم كاد",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah ism كاد dan marfu‘."
+        },
+        {
+          "word": "يَنْجَحُ",
+          "role": "فعل مضارع في جملة الخبر",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "Jumlah fi‘liyyah يَنْجَحُ menjadi khabar كاد pada pola ini; fi‘il mudhari‘ marfu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-inna",
+      "title": "Bedah Inna: إِنَّ الْعِلْمَ نَافِعٌ",
+      "sentence": "إِنَّ الْعِلْمَ نَافِعٌ",
+      "translation": "Sesungguhnya ilmu itu bermanfaat.",
+      "difficulty": "Dasar",
+      "material_slug": "inna-wa-akhawatuha",
+      "source_pages": "Landasan konsep: hlm. 85–97; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "إِنَّ",
+          "role": "حرف توكيد ونصب",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "إِنَّ memberi penegasan dan menashabkan ism."
+        },
+        {
+          "word": "الْعِلْمَ",
+          "role": "اسم إنَّ",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الْعِلْمَ adalah ism إنَّ manshub."
+        },
+        {
+          "word": "نَافِعٌ",
+          "role": "خبر إنَّ",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "نَافِعٌ adalah khabar إنَّ marfu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-la-nafiyah",
+      "title": "Bedah La Nafi lil-Jins: لَا طَالِبَ فِي الْفَصْلِ",
+      "sentence": "لَا طَالِبَ فِي الْفَصْلِ",
+      "translation": "Tidak ada siswa di dalam kelas.",
+      "difficulty": "Menengah",
+      "material_slug": "la-nafiyah-lil-jins",
+      "source_pages": "Landasan konsep: hlm. 98–103; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "لَا",
+          "role": "لا النافية للجنس",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "لَا menafikan seluruh jenis yang disebut sesudahnya pada konstruksi ini."
+        },
+        {
+          "word": "طَالِبَ",
+          "role": "اسم لا",
+          "irob": "مبني على الفتح في محل نصب",
+          "sign": "الفتحة الظاهرة بناءً",
+          "reason": "طَالِبَ adalah ism لا mufrad yang dibina atas fathah pada محل nasab."
+        },
+        {
+          "word": "فِي",
+          "role": "حرف جر",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "فِي adalah huruf jarr."
+        },
+        {
+          "word": "الْفَصْلِ",
+          "role": "اسم مجرور",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "الْفَصْلِ majrur oleh فِي; syibh jumlah berkaitan dengan khabar لا."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-zanna",
+      "title": "Bedah Zanna: ظَنَنْتُ الْجَوَّ صَحْوًا",
+      "sentence": "ظَنَنْتُ الْجَوَّ صَحْوًا",
+      "translation": "Aku mengira cuaca cerah.",
+      "difficulty": "Menengah",
+      "material_slug": "zanna-wa-akhawatuha",
+      "source_pages": "Landasan konsep: hlm. 104–111; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "ظَنَنْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "ظَنَنْتُ adalah fi‘il yang mengambil dua maf‘ul; ta’ menjadi fa‘il."
+        },
+        {
+          "word": "الْجَوَّ",
+          "role": "مفعول به أول",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الْجَوَّ adalah maf‘ul pertama dari ظنّ."
+        },
+        {
+          "word": "صَحْوًا",
+          "role": "مفعول به ثانٍ",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "صَحْوًا adalah maf‘ul kedua yang melengkapi makna penilaian."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-manshub",
+      "title": "Bedah Isim Manshub: قَرَأَ الطَّالِبُ الدَّرْسَ",
+      "sentence": "قَرَأَ الطَّالِبُ الدَّرْسَ",
+      "translation": "Siswa itu membaca pelajaran.",
+      "difficulty": "Dasar",
+      "material_slug": "isim-manshub",
+      "source_pages": "Landasan konsep: hlm. 112; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "قَرَأَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah fa‘il marfu‘."
+        },
+        {
+          "word": "الدَّرْسَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الدَّرْسَ menjadi salah satu contoh isim manshub, yaitu maf‘ul bih."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maful-bih",
+      "title": "Bedah Maf‘ul Bih: فَتَحَ الْوَلَدُ الْبَابَ",
+      "sentence": "فَتَحَ الْوَلَدُ الْبَابَ",
+      "translation": "Anak itu membuka pintu.",
+      "difficulty": "Dasar",
+      "material_slug": "maf-ul-bih",
+      "source_pages": "Landasan konsep: hlm. 113–118; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "فَتَحَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi bermakna membuka."
+        },
+        {
+          "word": "الْوَلَدُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْوَلَدُ adalah pelaku tindakan."
+        },
+        {
+          "word": "الْبَابَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الْبَابَ adalah objek yang dibuka."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-isytighal",
+      "title": "Bedah Isytighal: الطَّالِبَ أَكْرَمْتُهُ",
+      "sentence": "الطَّالِبَ أَكْرَمْتُهُ",
+      "translation": "Siswa itu, aku memuliakannya.",
+      "difficulty": "Lanjutan",
+      "material_slug": "isytighal",
+      "source_pages": "Landasan konsep: hlm. 119–125; contoh pola baru untuk latihan.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "الطَّالِبَ",
+          "role": "اسم منصوب على الاشتغال بفعل محذوف يفسره المذكور",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الطَّالِبَ didahulukan dan dinashabkan pada pola isytighal; penentuan rinci mengikuti syarat bab."
+        },
+        {
+          "word": "أَكْرَمْتُهُ",
+          "role": "فعل ماضٍ والتاء فاعل والهاء مفعول به",
+          "irob": "مبني",
+          "sign": "السكون على الفعل لاتصاله بالتاء",
+          "reason": "أَكْرَمْتُهُ adalah fi‘il dengan ta’ fa‘il dan dhamir هُ sebagai objek yang merujuk pada الطالب."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-munada",
+      "title": "Bedah Munada: يَا طَالِبُ اجْتَهِدْ",
+      "sentence": "يَا طَالِبُ اجْتَهِدْ",
+      "translation": "Wahai siswa, bersungguh-sungguhlah.",
+      "difficulty": "Menengah",
+      "material_slug": "munada",
+      "source_pages": "Landasan konsep: hlm. 126–134; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "يَا",
+          "role": "حرف نداء",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "يَا adalah huruf panggilan."
+        },
+        {
+          "word": "طَالِبُ",
+          "role": "منادى نكرة مقصودة",
+          "irob": "مبني على الضم في محل نصب",
+          "sign": "الضمة بناءً",
+          "reason": "طَالِبُ adalah munada nakirah maqsudah yang dibina atas dhammah pada محل nasab."
+        },
+        {
+          "word": "اجْتَهِدْ",
+          "role": "فعل أمر",
+          "irob": "مبني",
+          "sign": "السكون",
+          "reason": "اجْتَهِدْ adalah fi‘il amr mabni atas sukun, dengan fa‘il dhamir tersembunyi أنت."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maful-mutlaq",
+      "title": "Bedah Maf‘ul Mutlaq: اجْتَهَدَ الطَّالِبُ اجْتِهَادًا",
+      "sentence": "اجْتَهَدَ الطَّالِبُ اجْتِهَادًا",
+      "translation": "Siswa itu bersungguh-sungguh dengan sungguh-sungguh.",
+      "difficulty": "Menengah",
+      "material_slug": "maf-ul-mutlaq",
+      "source_pages": "Landasan konsep: hlm. 135–139; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "اجْتَهَدَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi menunjukkan tindakan bersungguh-sungguh."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah pelaku."
+        },
+        {
+          "word": "اجْتِهَادًا",
+          "role": "مفعول مطلق",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "اجْتِهَادًا adalah mashdar yang menegaskan perbuatan dan menjadi maf‘ul mutlaq."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maful-fih",
+      "title": "Bedah Maf‘ul Fih: سَافَرْتُ يَوْمَ الْجُمُعَةِ",
+      "sentence": "سَافَرْتُ يَوْمَ الْجُمُعَةِ",
+      "translation": "Aku bepergian pada hari Jumat.",
+      "difficulty": "Menengah",
+      "material_slug": "maf-ul-fih",
+      "source_pages": "Landasan konsep: hlm. 140–148; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "سَافَرْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "Fi‘il madhi dengan ta’ fa‘il."
+        },
+        {
+          "word": "يَوْمَ",
+          "role": "ظرف زمان مفعول فيه وهو مضاف",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "يَوْمَ menjelaskan waktu terjadinya perjalanan dan menjadi zharaf manshub."
+        },
+        {
+          "word": "الْجُمُعَةِ",
+          "role": "مضاف إليه",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "الْجُمُعَةِ adalah mudhaf ilayh majrur."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maful-min-ajlih",
+      "title": "Bedah Maf‘ul min Ajlih: قُمْتُ احْتِرَامًا لِلْمُعَلِّمِ",
+      "sentence": "قُمْتُ احْتِرَامًا لِلْمُعَلِّمِ",
+      "translation": "Aku berdiri karena menghormati guru.",
+      "difficulty": "Menengah",
+      "material_slug": "maf-ul-min-ajlih",
+      "source_pages": "Landasan konsep: hlm. 149–151; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "قُمْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "قُمْتُ menyatakan tindakan berdiri dan ta’ menjadi fa‘il."
+        },
+        {
+          "word": "احْتِرَامًا",
+          "role": "مفعول لأجله",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "احْتِرَامًا menjelaskan alasan atau tujuan berdiri."
+        },
+        {
+          "word": "لِلْمُعَلِّمِ",
+          "role": "جار ومجرور",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة على المعلم",
+          "reason": "لِـ adalah huruf jarr dan الْمُعَلِّمِ majrur."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-maful-maah",
+      "title": "Bedah Maf‘ul Ma‘ah: سِرْتُ وَالنِّيلَ",
+      "sentence": "سِرْتُ وَالنِّيلَ",
+      "translation": "Aku berjalan menyusuri/bersama Sungai Nil.",
+      "difficulty": "Lanjutan",
+      "material_slug": "maf-ul-maah",
+      "source_pages": "Landasan konsep: hlm. 152–153; contoh latihan untuk membedakan waw ma‘iyyah dan ‘athaf.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "سِرْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "سِرْتُ adalah fi‘il madhi dengan ta’ sebagai fa‘il."
+        },
+        {
+          "word": "وَ",
+          "role": "واو المعية",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "Dalam pembacaan latihan ini, waw menunjukkan kebersamaan."
+        },
+        {
+          "word": "النِّيلَ",
+          "role": "مفعول معه",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "النِّيلَ dinashabkan sebagai maf‘ul ma‘ah pada pembacaan waw ma‘iyyah; konteks menentukan apakah analisis ini lebih tepat daripada ‘athaf."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-hal",
+      "title": "Bedah Hal: جَاءَ زَيْدٌ رَاكِبًا",
+      "sentence": "جَاءَ زَيْدٌ رَاكِبًا",
+      "translation": "Zaid datang dalam keadaan berkendara.",
+      "difficulty": "Menengah",
+      "material_slug": "hal-dan-musyabbah-bil-maful",
+      "source_pages": "Landasan konsep: hlm. 154–162; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "زَيْدٌ",
+          "role": "فاعل وصاحب الحال",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "زَيْدٌ adalah fa‘il dan صاحب الحال."
+        },
+        {
+          "word": "رَاكِبًا",
+          "role": "حال",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "رَاكِبًا menjelaskan keadaan Zaid ketika datang dan manshub sebagai hal."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-tamyiz",
+      "title": "Bedah Tamyiz: اشْتَرَيْتُ عِشْرِينَ كِتَابًا",
+      "sentence": "اشْتَرَيْتُ عِشْرِينَ كِتَابًا",
+      "translation": "Aku membeli dua puluh buku.",
+      "difficulty": "Menengah",
+      "material_slug": "tamyiz",
+      "source_pages": "Landasan konsep: hlm. 163–166; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "اشْتَرَيْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "Fi‘il madhi dengan ta’ sebagai fa‘il."
+        },
+        {
+          "word": "عِشْرِينَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الياء لأنه ملحق بجمع المذكر السالم في إعرابه",
+          "reason": "عِشْرِينَ adalah bilangan yang menjadi objek; tanda nasabnya ya."
+        },
+        {
+          "word": "كِتَابًا",
+          "role": "تمييز",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "كِتَابًا menjelaskan benda yang dihitung dan menjadi tamyiz manshub."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-mustatsna",
+      "title": "Bedah Istitsna’: حَضَرَ الطُّلَّابُ إِلَّا طَالِبًا",
+      "sentence": "حَضَرَ الطُّلَّابُ إِلَّا طَالِبًا",
+      "translation": "Para siswa hadir kecuali seorang siswa.",
+      "difficulty": "Menengah",
+      "material_slug": "mustatsna",
+      "source_pages": "Landasan konsep: hlm. 167–174; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "حَضَرَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الطُّلَّابُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطُّلَّابُ adalah fa‘il marfu‘."
+        },
+        {
+          "word": "إِلَّا",
+          "role": "أداة استثناء",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "إِلَّا adalah alat pengecualian."
+        },
+        {
+          "word": "طَالِبًا",
+          "role": "مستثنى",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Dalam istitsna’ lengkap afirmatif, طَالِبًا menjadi mustatsna manshub."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-mahfudhat",
+      "title": "Bedah Isim Majrur: مَرَرْتُ بِطَالِبِ الْعِلْمِ",
+      "sentence": "مَرَرْتُ بِطَالِبِ الْعِلْمِ",
+      "translation": "Aku melewati penuntut ilmu.",
+      "difficulty": "Dasar",
+      "material_slug": "mahfudhat-minal-asma",
+      "source_pages": "Landasan konsep: hlm. 175–190; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "مَرَرْتُ",
+          "role": "فعل ماضٍ والتاء فاعل",
+          "irob": "مبني",
+          "sign": "السكون لاتصاله بتاء الفاعل",
+          "reason": "Fi‘il madhi dengan ta’ fa‘il."
+        },
+        {
+          "word": "بِ",
+          "role": "حرف جر",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "بِ adalah huruf jarr."
+        },
+        {
+          "word": "طَالِبِ",
+          "role": "اسم مجرور وهو مضاف",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "طَالِبِ majrur oleh ب dan menjadi mudhaf."
+        },
+        {
+          "word": "الْعِلْمِ",
+          "role": "مضاف إليه",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "الْعِلْمِ adalah mudhaf ilayh majrur."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-irab-fiil",
+      "title": "Bedah I‘rab Fi‘il: لَمْ يَسْعَ الطَّالِبُ",
+      "sentence": "لَمْ يَسْعَ الطَّالِبُ",
+      "translation": "Siswa itu tidak berusaha.",
+      "difficulty": "Menengah",
+      "material_slug": "irab-al-afal",
+      "source_pages": "Landasan konsep: hlm. 191–208; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "لَمْ",
+          "role": "حرف نفي وجزم وقلب",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "لَمْ menafikan makna lampau dan menjazamkan fi‘il mudhari‘."
+        },
+        {
+          "word": "يَسْعَ",
+          "role": "فعل مضارع مجزوم",
+          "irob": "مجزوم",
+          "sign": "حذف حرف العلة",
+          "reason": "يَسْعَ berasal dari fi‘il berakhir huruf ‘illat; tanda jazm-nya membuang huruf ‘illat."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah fa‘il marfu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-naat",
+      "title": "Bedah Na‘at: جَاءَ الطَّالِبُ الْمُجْتَهِدُ",
+      "sentence": "جَاءَ الطَّالِبُ الْمُجْتَهِدُ",
+      "translation": "Siswa yang rajin itu datang.",
+      "difficulty": "Dasar",
+      "material_slug": "naat",
+      "source_pages": "Landasan konsep: hlm. 209–219; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الطَّالِبُ",
+          "role": "فاعل ومنعوت",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الطَّالِبُ adalah fa‘il sekaligus man‘ut."
+        },
+        {
+          "word": "الْمُجْتَهِدُ",
+          "role": "نعت",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْمُجْتَهِدُ adalah na‘at yang mengikuti الطَّالِبُ dalam rafa‘ dan definiteness."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-athaf",
+      "title": "Bedah ‘Athaf: جَاءَ زَيْدٌ وَعَمْرٌو",
+      "sentence": "جَاءَ زَيْدٌ وَعَمْرٌو",
+      "translation": "Zaid dan Amr datang.",
+      "difficulty": "Dasar",
+      "material_slug": "athaf",
+      "source_pages": "Landasan konsep: hlm. 220–236; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "زَيْدٌ",
+          "role": "فاعل معطوف عليه",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "زَيْدٌ adalah fa‘il dan ma‘thuf ‘alaih."
+        },
+        {
+          "word": "وَ",
+          "role": "حرف عطف",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "وَ menghubungkan unsur setara."
+        },
+        {
+          "word": "عَمْرٌو",
+          "role": "معطوف",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "عَمْرٌو adalah ma‘thuf yang mengikuti rafa‘ pada زَيْدٌ."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-taukid",
+      "title": "Bedah Taukid: جَاءَ الْمُدِيرُ نَفْسُهُ",
+      "sentence": "جَاءَ الْمُدِيرُ نَفْسُهُ",
+      "translation": "Kepala sekolah itu sendiri datang.",
+      "difficulty": "Menengah",
+      "material_slug": "taukid",
+      "source_pages": "Landasan konsep: hlm. 237–241; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "الْمُدِيرُ",
+          "role": "فاعل ومؤكَّد",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْمُدِيرُ adalah fa‘il yang ditegaskan."
+        },
+        {
+          "word": "نَفْسُهُ",
+          "role": "توكيد معنوي",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة، وهو مضاف والهاء مضاف إليه",
+          "reason": "نَفْسُهُ adalah taukid ma‘nawi dan mengikuti i‘rab الْمُدِيرُ."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-badal",
+      "title": "Bedah Badal: جَاءَ أَخُوكَ زَيْدٌ",
+      "sentence": "جَاءَ أَخُوكَ زَيْدٌ",
+      "translation": "Saudaramu, Zaid, datang.",
+      "difficulty": "Menengah",
+      "material_slug": "badal",
+      "source_pages": "Landasan konsep: hlm. 242–247; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "جَاءَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "Fi‘il madhi mabni atas fathah."
+        },
+        {
+          "word": "أَخُوكَ",
+          "role": "فاعل وهو مضاف والكاف مضاف إليه",
+          "irob": "مرفوع",
+          "sign": "الواو لأنه من الأسماء الخمسة بشروطها",
+          "reason": "أَخُوكَ adalah fa‘il marfu‘; tanda rafa‘-nya waw pada asma’ khamsah ketika syaratnya terpenuhi."
+        },
+        {
+          "word": "زَيْدٌ",
+          "role": "بدل من أخوك",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "زَيْدٌ menjelaskan siapa yang dimaksud dengan أَخُوكَ dan mengikuti rafa‘ sebagai badal."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-asma-amila",
+      "title": "Bedah Isim yang Beramal: هَذَا كَاتِبٌ الدَّرْسَ",
+      "sentence": "هَذَا كَاتِبٌ الدَّرْسَ",
+      "translation": "Ini seorang penulis pelajaran.",
+      "difficulty": "Lanjutan",
+      "material_slug": "asma-amila-amal-alfil",
+      "source_pages": "Landasan konsep: hlm. 248–259; contoh ini skematis dan syarat amal ism fa‘il wajib diverifikasi.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "هَذَا",
+          "role": "اسم إشارة مبتدأ",
+          "irob": "مبني في محل رفع",
+          "sign": "مبني",
+          "reason": "هَذَا adalah mubtada dalam محل رفع."
+        },
+        {
+          "word": "كَاتِبٌ",
+          "role": "خبر وهو اسم فاعل",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "كَاتِبٌ adalah khabar berbentuk ism fa‘il; amalnya terhadap objek bergantung pada syarat bab."
+        },
+        {
+          "word": "الدَّرْسَ",
+          "role": "مفعول به لاسم الفاعل على تقدير تحقق شروط العمل",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "الدَّرْسَ dianalisis sebagai objek dari ism fa‘il jika syarat amal yang dijelaskan kitab terpenuhi; periksa konteks sebelum memakai sebagai penilaian resmi."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-tanazu",
+      "title": "Bedah Tanazu‘: قَامَا وَقَعَدَ أَخَوَاكَ",
+      "sentence": "قَامَا وَقَعَدَ أَخَوَاكَ",
+      "translation": "Dua saudaramu berdiri dan duduk.",
+      "difficulty": "Lanjutan",
+      "material_slug": "tanazu-fil-amal",
+      "source_pages": "Pola contoh merujuk pembahasan tanazu‘ pada hlm. 260–261; telaah hubungan dua amil dan ma‘mulnya.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "قَامَا",
+          "role": "فعل ماضٍ والألف ضمير تثنية في محل رفع فاعل",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة على الفعل",
+          "reason": "قَامَا adalah fi‘il madhi dengan alif tatsniyah sebagai dhamir fa‘il yang merujuk pada dua saudara."
+        },
+        {
+          "word": "وَ",
+          "role": "حرف عطف/ربط",
+          "irob": "مبني",
+          "sign": "لا محل له من الإعراب",
+          "reason": "وَ menghubungkan dua amil yang terkait dalam pola tanazu‘."
+        },
+        {
+          "word": "قَعَدَ",
+          "role": "فعل ماضٍ",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "قَعَدَ adalah amil kedua yang membutuhkan fa‘il."
+        },
+        {
+          "word": "أَخَوَاكَ",
+          "role": "فاعل قعد ومثنى مضاف إلى الكاف",
+          "irob": "مرفوع",
+          "sign": "الألف لأنه مثنى",
+          "reason": "أَخَوَاكَ menjadi fa‘il yang tampak untuk قَعَدَ dan merujuk pada dua saudara; hubungan dengan dhamir pada قَامَا menjadi bahan analisis tanazu‘."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-taajjub",
+      "title": "Bedah Ta‘ajjub: مَا أَجْمَلَ السَّمَاءَ",
+      "sentence": "مَا أَجْمَلَ السَّمَاءَ",
+      "translation": "Betapa indahnya langit!",
+      "difficulty": "Menengah",
+      "material_slug": "taajjub",
+      "source_pages": "Landasan konsep: hlm. 262–264; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "مَا",
+          "role": "اسم تعجب",
+          "irob": "مبني في محل رفع مبتدأ",
+          "sign": "مبني على السكون",
+          "reason": "مَا adalah unsur pembentuk pola ta‘ajjub ما أفعل."
+        },
+        {
+          "word": "أَجْمَلَ",
+          "role": "فعل ماضٍ جامد لإنشاء التعجب",
+          "irob": "مبني",
+          "sign": "الفتحة الظاهرة",
+          "reason": "أَجْمَلَ berada pada pola khusus ta‘ajjub."
+        },
+        {
+          "word": "السَّمَاءَ",
+          "role": "مفعول به",
+          "irob": "منصوب",
+          "sign": "الفتحة الظاهرة",
+          "reason": "السَّمَاءَ adalah unsur yang dikagumi dan manshub pada pola ini."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-adad",
+      "title": "Bedah ‘Adad: عِنْدِي ثَلَاثَةُ كُتُبٍ",
+      "sentence": "عِنْدِي ثَلَاثَةُ كُتُبٍ",
+      "translation": "Aku memiliki tiga buku.",
+      "difficulty": "Menengah",
+      "material_slug": "adad",
+      "source_pages": "Landasan konsep: hlm. 265–268; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "عِنْدِي",
+          "role": "ظرف/شبه جملة متعلق بخبر مقدم والياء مضاف إليه",
+          "irob": "مبني/مجرور بحسب التحليل",
+          "sign": "الياء ضمير في محل جر بالإضافة",
+          "reason": "عِنْدَ adalah zharaf yang disandarkan kepada ya’ mutakallim; analisis lengkap bergantung pada pendekatan jumlah."
+        },
+        {
+          "word": "ثَلَاثَةُ",
+          "role": "مبتدأ مؤخر أو فاعل معنوي بحسب التقدير، وهو مضاف",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "ثَلَاثَةُ adalah bilangan yang menjadi pusat susunan dan mudhaf; analisis posisi kalimat mengikuti تقدير الخبر."
+        },
+        {
+          "word": "كُتُبٍ",
+          "role": "مضاف إليه ومعدود",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة",
+          "reason": "كُتُبٍ adalah ma‘dud dalam susunan idhafah setelah bilangan dan majrur."
+        }
+      ]
+    },
+    {
+      "slug": "latihan-waqaf",
+      "title": "Bedah Waqaf: الْحَمْدُ لِلَّهِ",
+      "sentence": "الْحَمْدُ لِلَّهِ",
+      "translation": "Segala puji bagi Allah.",
+      "difficulty": "Dasar",
+      "material_slug": "waqaf",
+      "source_pages": "Landasan konsep: hlm. 269–271; kalimat latihan disusun baru.",
+      "status": "draft",
+      "analyses": [
+        {
+          "word": "الْحَمْدُ",
+          "role": "مبتدأ",
+          "irob": "مرفوع",
+          "sign": "الضمة الظاهرة",
+          "reason": "الْحَمْدُ adalah mubtada marfu‘."
+        },
+        {
+          "word": "لِلَّهِ",
+          "role": "جار ومجرور متعلق بخبر محذوف",
+          "irob": "مجرور",
+          "sign": "الكسرة الظاهرة على لفظ الجلالة",
+          "reason": "لِـ adalah huruf jarr dan lafzh al-jalalah majrur; ketika waqaf, cara melafalkan akhir kata mengikuti kaidah waqaf."
+        }
+      ]
+    }
+  ]
+}
